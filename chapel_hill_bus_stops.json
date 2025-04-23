@@ -1,0 +1,3260 @@
+[
+  {
+    "stop_id": "8507534",
+    "stop_name": "Estes Park Apartments",
+    "stop_lat": 35.921817,
+    "stop_lon": -79.071184
+  },
+  {
+    "stop_id": "8507920",
+    "stop_name": "West Barbee Chapel Road at Meadowmont Village Circle",
+    "stop_lat": 35.906056,
+    "stop_lon": -79.01025
+  },
+  {
+    "stop_id": "8508178",
+    "stop_name": "Friday Center South Park and Ride Lot",
+    "stop_lat": 35.896321,
+    "stop_lon": -79.012302
+  },
+  {
+    "stop_id": "8508184",
+    "stop_name": "South Columbia Street at Health Sciences Library",
+    "stop_lat": 35.905524,
+    "stop_lon": -79.053281
+  },
+  {
+    "stop_id": "8509024",
+    "stop_name": "East Drive at Jackson Circle",
+    "stop_lat": 35.901957,
+    "stop_lon": -79.050714
+  },
+  {
+    "stop_id": "8509025",
+    "stop_name": "Old Chapel Hill Road at Huse Street",
+    "stop_lat": 35.945704,
+    "stop_lon": -78.996651
+  },
+  {
+    "stop_id": "8514177",
+    "stop_name": "Cornelius St (US 70) at Rainey Rd",
+    "stop_lat": 36.087242,
+    "stop_lon": -79.108345
+  },
+  {
+    "stop_id": "8514178",
+    "stop_name": "Manning Dr at UNC Hospitals",
+    "stop_lat": 35.903566,
+    "stop_lon": -79.051805
+  },
+  {
+    "stop_id": "8515463",
+    "stop_name": "Jones Ferry Park and Ride",
+    "stop_lat": 35.901507,
+    "stop_lon": -79.090337
+  },
+  {
+    "stop_id": "8515464",
+    "stop_name": "Pittsboro St at Credit Union",
+    "stop_lat": 35.90689,
+    "stop_lon": -79.05487
+  },
+  {
+    "stop_id": "8516241",
+    "stop_name": "East Franklin Street at Varsity Theatre",
+    "stop_lat": 35.913587,
+    "stop_lon": -79.05493
+  },
+  {
+    "stop_id": "8517049",
+    "stop_name": "Morris Grove Elementary",
+    "stop_lat": 35.966284,
+    "stop_lon": -79.101639
+  },
+  {
+    "stop_id": "8517050",
+    "stop_name": "Smith Level Road at BPW Club Road Northbound",
+    "stop_lat": 35.895827,
+    "stop_lon": -79.076037
+  },
+  {
+    "stop_id": "8518481",
+    "stop_name": "Eubanks Park-and-Ride Lot",
+    "stop_lat": 35.970835,
+    "stop_lon": -79.070605
+  },
+  {
+    "stop_id": "8518482",
+    "stop_name": "Southern Village Park-and-Ride Lot",
+    "stop_lat": 35.878775,
+    "stop_lon": -79.066058
+  },
+  {
+    "stop_id": "8520686",
+    "stop_name": "Booker Creek Road at Apartments",
+    "stop_lat": 35.947723,
+    "stop_lon": -79.026441
+  },
+  {
+    "stop_id": "8523948",
+    "stop_name": "Rock Haven Road at Rock Creek Road West",
+    "stop_lat": 35.891964,
+    "stop_lon": -79.083095
+  },
+  {
+    "stop_id": "8523949",
+    "stop_name": "Jones Ferry Road at Davie Road",
+    "stop_lat": 35.90676,
+    "stop_lon": -79.082992
+  },
+  {
+    "stop_id": "8524163",
+    "stop_name": "West Franklin Street at Columbia Street",
+    "stop_lat": 35.912977,
+    "stop_lon": -79.056506
+  },
+  {
+    "stop_id": "8526631",
+    "stop_name": "West Franklin Street at University Baptist Church",
+    "stop_lat": 35.912713,
+    "stop_lon": -79.05663
+  },
+  {
+    "stop_id": "8539038",
+    "stop_name": "Weiner Street at Severin Street",
+    "stop_lat": 35.926847,
+    "stop_lon": -79.063424
+  },
+  {
+    "stop_id": "8539039",
+    "stop_name": "Willow Drive at Conner Drive",
+    "stop_lat": 35.930041,
+    "stop_lon": -79.027728
+  },
+  {
+    "stop_id": "8539946",
+    "stop_name": "Mason Farm Road at Baity Hill",
+    "stop_lat": 35.897817,
+    "stop_lon": -79.042457
+  },
+  {
+    "stop_id": "8540863",
+    "stop_name": "Chatham County Park and Ride",
+    "stop_lat": 35.854069,
+    "stop_lon": -79.084641
+  },
+  {
+    "stop_id": "8541367",
+    "stop_name": "South Road at Student Stores",
+    "stop_lat": 35.909768,
+    "stop_lon": -79.047841
+  },
+  {
+    "stop_id": "8542654",
+    "stop_name": "Old Sterling Drive at Eastowne Road",
+    "stop_lat": 35.950497,
+    "stop_lon": -79.008222
+  },
+  {
+    "stop_id": "8543554",
+    "stop_name": "Old Fayetteville Road at NC 54 (SECU)",
+    "stop_lat": 35.918612,
+    "stop_lon": -79.098634
+  },
+  {
+    "stop_id": "8544606",
+    "stop_name": "McDougle Middle School",
+    "stop_lat": 35.927174,
+    "stop_lon": -79.098379
+  },
+  {
+    "stop_id": "8544607",
+    "stop_name": "Fountain Ridge Road at Overland Drive",
+    "stop_lat": 35.936758,
+    "stop_lon": -79.008201
+  },
+  {
+    "stop_id": "8547136",
+    "stop_name": "Friday Center Park and Ride",
+    "stop_lat": 35.901417,
+    "stop_lon": -79.012289
+  },
+  {
+    "stop_id": "8547244",
+    "stop_name": "South Road at Fetzer Gym",
+    "stop_lat": 35.909663,
+    "stop_lon": -79.047501
+  },
+  {
+    "stop_id": "8547647",
+    "stop_name": "RR Lot",
+    "stop_lat": 35.931064,
+    "stop_lon": -79.064532
+  },
+  {
+    "stop_id": "8548357",
+    "stop_name": "Manning Lot at Family Medicine Building",
+    "stop_lat": 35.899269,
+    "stop_lon": -79.038231
+  },
+  {
+    "stop_id": "8549152",
+    "stop_name": "Hamilton Road at Maxwell Road 1 Northbound",
+    "stop_lat": 35.909356,
+    "stop_lon": -79.023639
+  },
+  {
+    "stop_id": "8549461",
+    "stop_name": "Westminster Drive at Traffic Circle",
+    "stop_lat": 35.960325,
+    "stop_lon": -79.053051
+  },
+  {
+    "stop_id": "8550867",
+    "stop_name": "East Chapel Hill High School",
+    "stop_lat": 35.960653,
+    "stop_lon": -79.030797
+  },
+  {
+    "stop_id": "8551212",
+    "stop_name": "East Franklin Street at Coffee Shop",
+    "stop_lat": 35.91368,
+    "stop_lon": -79.054139
+  },
+  {
+    "stop_id": "8552179",
+    "stop_name": "Revere Rd at Nash St",
+    "stop_lat": 36.08629,
+    "stop_lon": -79.11193
+  },
+  {
+    "stop_id": "8552180",
+    "stop_name": "Churton St at King St (Police Station)",
+    "stop_lat": 36.07636,
+    "stop_lon": -79.09946
+  },
+  {
+    "stop_id": "8552181",
+    "stop_name": "NC 86 at Hampton Point Blvd (SB)",
+    "stop_lat": 36.05545,
+    "stop_lon": -79.08
+  },
+  {
+    "stop_id": "8552182",
+    "stop_name": "Durham Tech OCC Park and Ride",
+    "stop_lat": 36.040734,
+    "stop_lon": -79.091947
+  },
+  {
+    "stop_id": "8552183",
+    "stop_name": "Waterstone Drive at UNC Health Care - Hillsborough Campus",
+    "stop_lat": 36.038678,
+    "stop_lon": -79.090794
+  },
+  {
+    "stop_id": "8552184",
+    "stop_name": "NC 86 at Storey Ln (Southbound)",
+    "stop_lat": 36.027799,
+    "stop_lon": -79.080144
+  },
+  {
+    "stop_id": "8552185",
+    "stop_name": "NC 86 at Millhouse Rd (Southbound)",
+    "stop_lat": 35.99204,
+    "stop_lon": -79.071487
+  },
+  {
+    "stop_id": "8552201",
+    "stop_name": "Martin Luther King Junior Boulevard at Perkins Drive Southbound",
+    "stop_lat": 35.966511,
+    "stop_lon": -79.059618
+  },
+  {
+    "stop_id": "8552202",
+    "stop_name": "Martin Luther King Junior Boulevard at Airport Drive",
+    "stop_lat": 35.932621,
+    "stop_lon": -79.055726
+  },
+  {
+    "stop_id": "8552203",
+    "stop_name": "North Columbia Street at West Franklin Street",
+    "stop_lat": 35.913294,
+    "stop_lon": -79.056022
+  },
+  {
+    "stop_id": "8552204",
+    "stop_name": "South Columbia Street at Frat Court",
+    "stop_lat": 35.911689,
+    "stop_lon": -79.055045
+  },
+  {
+    "stop_id": "8552205",
+    "stop_name": "Pittsboro Street at Newman Center",
+    "stop_lat": 35.908924,
+    "stop_lon": -79.054815
+  },
+  {
+    "stop_id": "8552206",
+    "stop_name": "Mason Farm Road at Ambulatory Care Center Eastbound",
+    "stop_lat": 35.902121,
+    "stop_lon": -79.054325
+  },
+  {
+    "stop_id": "8552207",
+    "stop_name": "Mason Farm Road at East Drive",
+    "stop_lat": 35.901405,
+    "stop_lon": -79.051472
+  },
+  {
+    "stop_id": "8552208",
+    "stop_name": "South Columbia Street at UNC ROTC Naval Armory",
+    "stop_lat": 35.909293,
+    "stop_lon": -79.053225
+  },
+  {
+    "stop_id": "8552209",
+    "stop_name": "South Columbia Street at Abernathy Hall",
+    "stop_lat": 35.911453,
+    "stop_lon": -79.054669
+  },
+  {
+    "stop_id": "8552210",
+    "stop_name": "North Columbia Street at Rosemary Street",
+    "stop_lat": 35.913761,
+    "stop_lon": -79.056005
+  },
+  {
+    "stop_id": "8552211",
+    "stop_name": "Martin Luther King Junior Boulevard at YMCA",
+    "stop_lat": 35.933629,
+    "stop_lon": -79.055672
+  },
+  {
+    "stop_id": "8552212",
+    "stop_name": "Martin Luther King Junior Boulevard at Perkins Drive Northbound",
+    "stop_lat": 35.966467,
+    "stop_lon": -79.059147
+  },
+  {
+    "stop_id": "8552213",
+    "stop_name": "NC 86 at Mt. Sinai Rd",
+    "stop_lat": 35.992116,
+    "stop_lon": -79.071281
+  },
+  {
+    "stop_id": "8552214",
+    "stop_name": "NC 86 at Storey Ln (Northbound)",
+    "stop_lat": 36.027823,
+    "stop_lon": -79.080002
+  },
+  {
+    "stop_id": "8552215",
+    "stop_name": "NC 86 at Hampton Point Blvd (NB)",
+    "stop_lat": 36.055921,
+    "stop_lon": -79.080078
+  },
+  {
+    "stop_id": "8552216",
+    "stop_name": "Churton St at Margaret Ln (Orange County Courthouse)",
+    "stop_lat": 36.073886,
+    "stop_lon": -79.099276
+  },
+  {
+    "stop_id": "8552217",
+    "stop_name": "Churton St at North Hills Shopping Center",
+    "stop_lat": 36.084499,
+    "stop_lon": -79.099777
+  },
+  {
+    "stop_id": "8552218",
+    "stop_name": "Severin Street at 223",
+    "stop_lat": 35.92756,
+    "stop_lon": -79.059943
+  },
+  {
+    "stop_id": "8552219",
+    "stop_name": "Severin Street at Bradley Road",
+    "stop_lat": 35.92807,
+    "stop_lon": -79.05825
+  },
+  {
+    "stop_id": "8552220",
+    "stop_name": "Bradley Road at Williams Circle",
+    "stop_lat": 35.926086,
+    "stop_lon": -79.058264
+  },
+  {
+    "stop_id": "8552221",
+    "stop_name": "Pritchard Avenue at Longview Street",
+    "stop_lat": 35.919403,
+    "stop_lon": -79.060811
+  },
+  {
+    "stop_id": "8552222",
+    "stop_name": "North Columbia Street at Isley Street Eastbound",
+    "stop_lat": 35.918693,
+    "stop_lon": -79.059262
+  },
+  {
+    "stop_id": "8552223",
+    "stop_name": "Caldwell Street at Housing Authority",
+    "stop_lat": 35.916917,
+    "stop_lon": -79.06291
+  },
+  {
+    "stop_id": "8552224",
+    "stop_name": "Mitchell Lane at Caldwell Street",
+    "stop_lat": 35.915813,
+    "stop_lon": -79.06412
+  },
+  {
+    "stop_id": "8552225",
+    "stop_name": "Mitchell Lane at Lindsay Street",
+    "stop_lat": 35.913549,
+    "stop_lon": -79.062838
+  },
+  {
+    "stop_id": "8552226",
+    "stop_name": "Mitchell Lane at Rosemary Street",
+    "stop_lat": 35.912223,
+    "stop_lon": -79.062524
+  },
+  {
+    "stop_id": "8552227",
+    "stop_name": "West Rosemary Street at Mini Mart Eastbound",
+    "stop_lat": 35.912347,
+    "stop_lon": -79.060609
+  },
+  {
+    "stop_id": "8552228",
+    "stop_name": "West Rosemary Street at Pritchard Avenue",
+    "stop_lat": 35.913546,
+    "stop_lon": -79.057495
+  },
+  {
+    "stop_id": "8552229",
+    "stop_name": "South Road at Coker Hall",
+    "stop_lat": 35.908608,
+    "stop_lon": -79.051503
+  },
+  {
+    "stop_id": "8552230",
+    "stop_name": "South Road at Woollen Gym",
+    "stop_lat": 35.910131,
+    "stop_lon": -79.045229
+  },
+  {
+    "stop_id": "8552231",
+    "stop_name": "South Road at Country Club Road Eastbound",
+    "stop_lat": 35.910581,
+    "stop_lon": -79.042622
+  },
+  {
+    "stop_id": "8552232",
+    "stop_name": "Raleigh Road at Greenwood Road",
+    "stop_lat": 35.909711,
+    "stop_lon": -79.032289
+  },
+  {
+    "stop_id": "8552233",
+    "stop_name": "Raleigh Road at UNC Administration",
+    "stop_lat": 35.909311,
+    "stop_lon": -79.030265
+  },
+  {
+    "stop_id": "8552234",
+    "stop_name": "Hamilton Road at Berkley Road",
+    "stop_lat": 35.910966,
+    "stop_lon": -79.023275
+  },
+  {
+    "stop_id": "8552235",
+    "stop_name": "Hamilton Road at Maxwell Road 2",
+    "stop_lat": 35.913208,
+    "stop_lon": -79.023433
+  },
+  {
+    "stop_id": "8552236",
+    "stop_name": "Brandon Road at Hamilton Road",
+    "stop_lat": 35.915191,
+    "stop_lon": -79.023391
+  },
+  {
+    "stop_id": "8552237",
+    "stop_name": "Brandon Road at Flemington Road Northbound",
+    "stop_lat": 35.91520055433878,
+    "stop_lon": -79.02457853107452
+  },
+  {
+    "stop_id": "8552238",
+    "stop_name": "Willow Drive at Estes Drive",
+    "stop_lat": 35.927757,
+    "stop_lon": -79.030258
+  },
+  {
+    "stop_id": "8552239",
+    "stop_name": "Estes Drive at Camelot Apartments",
+    "stop_lat": 35.927288,
+    "stop_lon": -79.029824
+  },
+  {
+    "stop_id": "8552240",
+    "stop_name": "Estes Drive at US 15-501 Bypass",
+    "stop_lat": 35.925166,
+    "stop_lon": -79.025921
+  },
+  {
+    "stop_id": "8552241",
+    "stop_name": "Brandon Road at Flemington Road Southbound",
+    "stop_lat": 35.91509250185022,
+    "stop_lon": -79.02460713722608
+  },
+  {
+    "stop_id": "8552242",
+    "stop_name": "Brandon Road at Hamilton Road",
+    "stop_lat": 35.915049,
+    "stop_lon": -79.02342
+  },
+  {
+    "stop_id": "8552243",
+    "stop_name": "Hamilton Road at Maxwell Road 2",
+    "stop_lat": 35.913195,
+    "stop_lon": -79.02359
+  },
+  {
+    "stop_id": "8552244",
+    "stop_name": "Hamilton Road at Berkley Road",
+    "stop_lat": 35.911022,
+    "stop_lon": -79.023443
+  },
+  {
+    "stop_id": "8552245",
+    "stop_name": "Hamilton Road at Maxwell Road 1",
+    "stop_lat": 35.90955,
+    "stop_lon": -79.02373
+  },
+  {
+    "stop_id": "8552246",
+    "stop_name": "Raleigh Road at Glen Lennox Shopping",
+    "stop_lat": 35.908398,
+    "stop_lon": -79.024817
+  },
+  {
+    "stop_id": "8552247",
+    "stop_name": "Raleigh Road at UNC Administration Westbound",
+    "stop_lat": 35.909535,
+    "stop_lon": -79.030227
+  },
+  {
+    "stop_id": "8552248",
+    "stop_name": "Raleigh Road at Greenwood Road Westbound",
+    "stop_lat": 35.909986,
+    "stop_lon": -79.032451
+  },
+  {
+    "stop_id": "8552249",
+    "stop_name": "South Road at Raleigh Street",
+    "stop_lat": 35.910163,
+    "stop_lon": -79.045941
+  },
+  {
+    "stop_id": "8552250",
+    "stop_name": "South Road at Kenan Labs",
+    "stop_lat": 35.908739,
+    "stop_lon": -79.05117
+  },
+  {
+    "stop_id": "8552251",
+    "stop_name": "West Rosemary Street at Mini Mart",
+    "stop_lat": 35.912533,
+    "stop_lon": -79.060467
+  },
+  {
+    "stop_id": "8552252",
+    "stop_name": "Mitchell Lane at Rosemary Street",
+    "stop_lat": 35.912025,
+    "stop_lon": -79.062394
+  },
+  {
+    "stop_id": "8552253",
+    "stop_name": "Mitchell Lane at Lindsay Street",
+    "stop_lat": 35.913403,
+    "stop_lon": -79.062666
+  },
+  {
+    "stop_id": "8552254",
+    "stop_name": "Mitchell Lane at McDade Street",
+    "stop_lat": 35.91456,
+    "stop_lon": -79.063136
+  },
+  {
+    "stop_id": "8552255",
+    "stop_name": "Mitchell Lane at Caldwell Street",
+    "stop_lat": 35.915952,
+    "stop_lon": -79.064069
+  },
+  {
+    "stop_id": "8552256",
+    "stop_name": "Caldwell Street at Housing Authority",
+    "stop_lat": 35.916776,
+    "stop_lon": -79.062978
+  },
+  {
+    "stop_id": "8552258",
+    "stop_name": "Longview Street at Pritchard Avenue",
+    "stop_lat": 35.919534,
+    "stop_lon": -79.060478
+  },
+  {
+    "stop_id": "8552259",
+    "stop_name": "Bradley Road at Reade Road Northbound",
+    "stop_lat": 35.924849,
+    "stop_lon": -79.057684
+  },
+  {
+    "stop_id": "8552260",
+    "stop_name": "Bradley Road at Williams Circle",
+    "stop_lat": 35.925833,
+    "stop_lon": -79.058177
+  },
+  {
+    "stop_id": "8552261",
+    "stop_name": "Barclay Road at Williams Circle",
+    "stop_lat": 35.929441,
+    "stop_lon": -79.058456
+  },
+  {
+    "stop_id": "8552262",
+    "stop_name": "Barclay Road at Wyrick Street",
+    "stop_lat": 35.928929,
+    "stop_lon": -79.060109
+  },
+  {
+    "stop_id": "8552263",
+    "stop_name": "Barclay Road at Hartig Street",
+    "stop_lat": 35.928061,
+    "stop_lon": -79.06275
+  },
+  {
+    "stop_id": "8552264",
+    "stop_name": "Old Fayetteville Road at Poplar Place",
+    "stop_lat": 35.903148,
+    "stop_lon": -79.09085
+  },
+  {
+    "stop_id": "8552265",
+    "stop_name": "Old Fayetteville Road at Autumn Woods",
+    "stop_lat": 35.905601,
+    "stop_lon": -79.091652
+  },
+  {
+    "stop_id": "8552266",
+    "stop_name": "Old Fayetteville Road at West End Flats Northbound",
+    "stop_lat": 35.910661,
+    "stop_lon": -79.09338
+  },
+  {
+    "stop_id": "8552267",
+    "stop_name": "Old Fayetteville Road at West Poplar Avenue",
+    "stop_lat": 35.912365,
+    "stop_lon": -79.094115
+  },
+  {
+    "stop_id": "8552268",
+    "stop_name": "Old Fayetteville Road at Berkshire Manor",
+    "stop_lat": 35.914453,
+    "stop_lon": -79.095727
+  },
+  {
+    "stop_id": "8552269",
+    "stop_name": "Old Fayetteville Road at Carrboro Plaza",
+    "stop_lat": 35.915968,
+    "stop_lon": -79.096837
+  },
+  {
+    "stop_id": "8552270",
+    "stop_name": "Old Fayetteville Road at Pine Grove Northbound",
+    "stop_lat": 35.924691,
+    "stop_lon": -79.100088
+  },
+  {
+    "stop_id": "8552271",
+    "stop_name": "Hillsborough Road at Brunton Drive",
+    "stop_lat": 35.932871,
+    "stop_lon": -79.100417
+  },
+  {
+    "stop_id": "8552272",
+    "stop_name": "Hillsborough Road at McDougle School",
+    "stop_lat": 35.931091,
+    "stop_lon": -79.098057
+  },
+  {
+    "stop_id": "8552273",
+    "stop_name": "Hillsborough Road at the Hollow",
+    "stop_lat": 35.928968,
+    "stop_lon": -79.095428
+  },
+  {
+    "stop_id": "8552276",
+    "stop_name": "Hillsborough Road at James Street Eastbound",
+    "stop_lat": 35.926372,
+    "stop_lon": -79.092537
+  },
+  {
+    "stop_id": "8552277",
+    "stop_name": "Hillsborough Road at Rainbow Drive Southbound",
+    "stop_lat": 35.923753,
+    "stop_lon": -79.090267
+  },
+  {
+    "stop_id": "8552278",
+    "stop_name": "Hillsborough Road at Simpson Street",
+    "stop_lat": 35.922032,
+    "stop_lon": -79.087502
+  },
+  {
+    "stop_id": "8552279",
+    "stop_name": "North Greensboro Street at Morningside Drive Eastbound",
+    "stop_lat": 35.921125,
+    "stop_lon": -79.085127
+  },
+  {
+    "stop_id": "8552280",
+    "stop_name": "North Greensboro Street at Milton Drive",
+    "stop_lat": 35.920729,
+    "stop_lon": -79.082182
+  },
+  {
+    "stop_id": "8552281",
+    "stop_name": "North Greensboro Street at Cheek Avenue",
+    "stop_lat": 35.920776,
+    "stop_lon": -79.08029
+  },
+  {
+    "stop_id": "8552282",
+    "stop_name": "North Greensboro Street at Todd Street",
+    "stop_lat": 35.917579,
+    "stop_lon": -79.075344
+  },
+  {
+    "stop_id": "8552283",
+    "stop_name": "North Greensboro Street at Oak Avenue Eastbound",
+    "stop_lat": 35.916776,
+    "stop_lon": -79.073677
+  },
+  {
+    "stop_id": "8552284",
+    "stop_name": "North Greensboro Street at 503",
+    "stop_lat": 35.914322,
+    "stop_lon": -79.07229
+  },
+  {
+    "stop_id": "8552285",
+    "stop_name": "Weaver Street at Carrboro Century Center",
+    "stop_lat": 35.910899,
+    "stop_lon": -79.071792
+  },
+  {
+    "stop_id": "8552286",
+    "stop_name": "East Main Street at Arts Center Plaza",
+    "stop_lat": 35.910684,
+    "stop_lon": -79.068409
+  },
+  {
+    "stop_id": "8552287",
+    "stop_name": "West Franklin Street at South Roberson Street",
+    "stop_lat": 35.910148,
+    "stop_lon": -79.063341
+  },
+  {
+    "stop_id": "8552288",
+    "stop_name": "West Franklin Street at Kenan Street Eastbound",
+    "stop_lat": 35.911293,
+    "stop_lon": -79.060262
+  },
+  {
+    "stop_id": "8552289",
+    "stop_name": "East Franklin Street at Planetarium Eastbound",
+    "stop_lat": 35.914937,
+    "stop_lon": -79.050924
+  },
+  {
+    "stop_id": "8552290",
+    "stop_name": "East Franklin Street at Raleigh Street",
+    "stop_lat": 35.91583,
+    "stop_lon": -79.048607
+  },
+  {
+    "stop_id": "8552291",
+    "stop_name": "East Franklin Street at South Boundary Street Eastbound",
+    "stop_lat": 35.916816,
+    "stop_lon": -79.045974
+  },
+  {
+    "stop_id": "8552292",
+    "stop_name": "East Franklin Street at Park Place",
+    "stop_lat": 35.916737,
+    "stop_lon": -79.043784
+  },
+  {
+    "stop_id": "8552293",
+    "stop_name": "East Franklin Street at Glendale Drive",
+    "stop_lat": 35.918358,
+    "stop_lon": -79.039708
+  },
+  {
+    "stop_id": "8552294",
+    "stop_name": "East Franklin Street at Howell Lane Eastbound",
+    "stop_lat": 35.922433,
+    "stop_lon": -79.038616
+  },
+  {
+    "stop_id": "8552295",
+    "stop_name": "East Franklin Street at Plant Road",
+    "stop_lat": 35.926825,
+    "stop_lon": -79.035781
+  },
+  {
+    "stop_id": "8552296",
+    "stop_name": "East Franklin Street at Estes Drive Eastbound",
+    "stop_lat": 35.929902,
+    "stop_lon": -79.033851
+  },
+  {
+    "stop_id": "8552302",
+    "stop_name": "Estes Drive at Community Center Drive",
+    "stop_lat": 35.92787,
+    "stop_lon": -79.03229
+  },
+  {
+    "stop_id": "8552303",
+    "stop_name": "Willow Drive at University Place",
+    "stop_lat": 35.930051,
+    "stop_lon": -79.027389
+  },
+  {
+    "stop_id": "8552304",
+    "stop_name": "Ephesus Church Road at Legion Road Eastbound",
+    "stop_lat": 35.935145,
+    "stop_lon": -79.022163
+  },
+  {
+    "stop_id": "8552305",
+    "stop_name": "Ephesus Church Road at Frances Street",
+    "stop_lat": 35.932665,
+    "stop_lon": -79.018485
+  },
+  {
+    "stop_id": "8552306",
+    "stop_name": "Ephesus Church Road at Churchill Drive",
+    "stop_lat": 35.932392,
+    "stop_lon": -79.015002
+  },
+  {
+    "stop_id": "8552307",
+    "stop_name": "Ephesus Church Road at Tinkerbell Road Eastbound",
+    "stop_lat": 35.932546,
+    "stop_lon": -79.011835
+  },
+  {
+    "stop_id": "8552308",
+    "stop_name": "Colony Woods Drive at White Plains Road",
+    "stop_lat": 35.931391,
+    "stop_lon": -79.001953
+  },
+  {
+    "stop_id": "8552309",
+    "stop_name": "Fountain Ridge Road at Colony Woods Drive",
+    "stop_lat": 35.936483,
+    "stop_lon": -79.00234
+  },
+  {
+    "stop_id": "8552328",
+    "stop_name": "Old Fayetteville Road at Autumn Woods North",
+    "stop_lat": 35.907297,
+    "stop_lon": -79.092157
+  },
+  {
+    "stop_id": "8552329",
+    "stop_name": "North Greensboro Street at Sue Ann Court",
+    "stop_lat": 35.918839,
+    "stop_lon": -79.077207
+  },
+  {
+    "stop_id": "8552330",
+    "stop_name": "North Greensboro Street at Fitch Lumber",
+    "stop_lat": 35.912174,
+    "stop_lon": -79.072356
+  },
+  {
+    "stop_id": "8552331",
+    "stop_name": "East Franklin Street at Elizabeth Street Eastbound",
+    "stop_lat": 35.924493,
+    "stop_lon": -79.03797
+  },
+  {
+    "stop_id": "8552332",
+    "stop_name": "Ephesus Church Road at Blue Hill Apartments",
+    "stop_lat": 35.934186,
+    "stop_lon": -79.021002
+  },
+  {
+    "stop_id": "8552333",
+    "stop_name": "Ephesus Church Road at Landerwood Lane",
+    "stop_lat": 35.9327,
+    "stop_lon": -79.008203
+  },
+  {
+    "stop_id": "8552334",
+    "stop_name": "Ephesus Church Road at Sharon Road",
+    "stop_lat": 35.932078,
+    "stop_lon": -79.005543
+  },
+  {
+    "stop_id": "8553484",
+    "stop_name": "Raleigh Street at Spencer Hall",
+    "stop_lat": 35.914687,
+    "stop_lon": -79.048764
+  },
+  {
+    "stop_id": "8553485",
+    "stop_name": "Raleigh Street at Mangum Hall",
+    "stop_lat": 35.912363,
+    "stop_lon": -79.047502
+  },
+  {
+    "stop_id": "8553486",
+    "stop_name": "Stadium Drive at Stadium Gate #2",
+    "stop_lat": 35.908149,
+    "stop_lon": -79.046983
+  },
+  {
+    "stop_id": "8553487",
+    "stop_name": "Stadium Drive at Ridge Road",
+    "stop_lat": 35.90651,
+    "stop_lon": -79.044512
+  },
+  {
+    "stop_id": "8553488",
+    "stop_name": "Ridge Road at Ram's Head Center",
+    "stop_lat": 35.905313,
+    "stop_lon": -79.045437
+  },
+  {
+    "stop_id": "8553489",
+    "stop_name": "Manning Drive at Hinton James",
+    "stop_lat": 35.90337,
+    "stop_lon": -79.04388
+  },
+  {
+    "stop_id": "8553490",
+    "stop_name": "Bowles Drive at S11 Lot Driveway NB",
+    "stop_lat": 35.900583,
+    "stop_lon": -79.040656
+  },
+  {
+    "stop_id": "8553491",
+    "stop_name": "Bowles Drive at Smith Center Stadium",
+    "stop_lat": 35.900431,
+    "stop_lon": -79.043163
+  },
+  {
+    "stop_id": "8553492",
+    "stop_name": "Bowles Drive at Hinton James Tennis Courts",
+    "stop_lat": 35.901292,
+    "stop_lon": -79.043929
+  },
+  {
+    "stop_id": "8553493",
+    "stop_name": "Manning Drive at Public Safety",
+    "stop_lat": 35.90363,
+    "stop_lon": -79.046813
+  },
+  {
+    "stop_id": "8553494",
+    "stop_name": "Manning Drive at Hibbard Drive (WB)",
+    "stop_lat": 35.90311,
+    "stop_lon": -79.04864
+  },
+  {
+    "stop_id": "8553495",
+    "stop_name": "Manning Drive at Gravely Drive",
+    "stop_lat": 35.903071,
+    "stop_lon": -79.050059
+  },
+  {
+    "stop_id": "8553498",
+    "stop_name": "Weaver Dairy Road at Sunset Lane",
+    "stop_lat": 35.96198,
+    "stop_lon": -79.0363
+  },
+  {
+    "stop_id": "8553499",
+    "stop_name": "Carol Woods",
+    "stop_lat": 35.96491,
+    "stop_lon": -79.04033
+  },
+  {
+    "stop_id": "8553500",
+    "stop_name": "Weaver Dairy Road at Essex Drive",
+    "stop_lat": 35.96394,
+    "stop_lon": -79.04255
+  },
+  {
+    "stop_id": "8553501",
+    "stop_name": "Weaver Dairy Road at Kensington Trace",
+    "stop_lat": 35.96388,
+    "stop_lon": -79.04793
+  },
+  {
+    "stop_id": "8553502",
+    "stop_name": "Weaver Dairy Road at Vilcom Campus",
+    "stop_lat": 35.96399,
+    "stop_lon": -79.05246
+  },
+  {
+    "stop_id": "8553503",
+    "stop_name": "Martin Luther King Junior Boulevard at 1701 North Apartments",
+    "stop_lat": 35.961911,
+    "stop_lon": -79.05793
+  },
+  {
+    "stop_id": "8553504",
+    "stop_name": "Westminster Drive at Banks Drive Eastbound",
+    "stop_lat": 35.961471,
+    "stop_lon": -79.05484
+  },
+  {
+    "stop_id": "8553505",
+    "stop_name": "Westminster Drive at Banks Drive Westbound",
+    "stop_lat": 35.961492,
+    "stop_lon": -79.055562
+  },
+  {
+    "stop_id": "8553506",
+    "stop_name": "Martin Luther King Junior Boulevard at Westminster Drive",
+    "stop_lat": 35.960647,
+    "stop_lon": -79.057588
+  },
+  {
+    "stop_id": "8553507",
+    "stop_name": "Martin luther King Junior Boulevard at Rigsbee Southbound",
+    "stop_lat": 35.958718,
+    "stop_lon": -79.057548
+  },
+  {
+    "stop_id": "8553508",
+    "stop_name": "Martin Luther King Junior Boulevard at Stateside Drive",
+    "stop_lat": 35.954688,
+    "stop_lon": -79.058135
+  },
+  {
+    "stop_id": "8553509",
+    "stop_name": "Martin Luther King Junior Boulevard at Chapel View",
+    "stop_lat": 35.948477,
+    "stop_lon": -79.058722
+  },
+  {
+    "stop_id": "8553510",
+    "stop_name": "Martin Luther King Junior Boulevard at Northfield Drive",
+    "stop_lat": 35.94643,
+    "stop_lon": -79.058548
+  },
+  {
+    "stop_id": "8553511",
+    "stop_name": "Martin Luther King Junior Boulevard at Timber Hollow Southbound",
+    "stop_lat": 35.940243,
+    "stop_lon": -79.057279
+  },
+  {
+    "stop_id": "8553512",
+    "stop_name": "Martin Luther King Junior Boulevard at Shadowood",
+    "stop_lat": 35.937097,
+    "stop_lon": -79.056654
+  },
+  {
+    "stop_id": "8553513",
+    "stop_name": "Martin Luther King Junior Boulevard at Barclay Road",
+    "stop_lat": 35.930642,
+    "stop_lon": -79.055205
+  },
+  {
+    "stop_id": "8553514",
+    "stop_name": "Martin Luther King Junior Boulevard at Airport Gardens Apartments",
+    "stop_lat": 35.927982,
+    "stop_lon": -79.054298
+  },
+  {
+    "stop_id": "8553515",
+    "stop_name": "Martin Luther King Junior Boulevard at 725",
+    "stop_lat": 35.923783,
+    "stop_lon": -79.054794
+  },
+  {
+    "stop_id": "8553516",
+    "stop_name": "Martin Luther King Junior Boulevard at Longview Street",
+    "stop_lat": 35.920726,
+    "stop_lon": -79.056089
+  },
+  {
+    "stop_id": "8553517",
+    "stop_name": "Martin Luther King Junior Boulevard at Adelaide Walters Apartments",
+    "stop_lat": 35.918346,
+    "stop_lon": -79.056566
+  },
+  {
+    "stop_id": "8553518",
+    "stop_name": "Martin Luther King Junior Boulevard at Town Hall",
+    "stop_lat": 35.916757,
+    "stop_lon": -79.056856
+  },
+  {
+    "stop_id": "8554283",
+    "stop_name": "Martin Luther King Junior Boulevard at North Street",
+    "stop_lat": 35.916613,
+    "stop_lon": -79.056579
+  },
+  {
+    "stop_id": "8554284",
+    "stop_name": "Martin Luther King Junior Boulevard at University Apartments",
+    "stop_lat": 35.91844,
+    "stop_lon": -79.056259
+  },
+  {
+    "stop_id": "8554285",
+    "stop_name": "Martin Luther King Junior Boulevard at Millcreek",
+    "stop_lat": 35.921345,
+    "stop_lon": -79.055657
+  },
+  {
+    "stop_id": "8554286",
+    "stop_name": "Martin Luther King Junior Boulevard at Hillsborough Street",
+    "stop_lat": 35.924497,
+    "stop_lon": -79.054182
+  },
+  {
+    "stop_id": "8554287",
+    "stop_name": "Martin Luther King Junior Boulevard at Bolinwood Drive",
+    "stop_lat": 35.928023,
+    "stop_lon": -79.054053
+  },
+  {
+    "stop_id": "8554288",
+    "stop_name": "Martin Luther King Junior Boulevard at Barclay Road Northbound",
+    "stop_lat": 35.930315,
+    "stop_lon": -79.054797
+  },
+  {
+    "stop_id": "8554289",
+    "stop_name": "Martin Luther King Junior Boulevard at Shadowood Northbound",
+    "stop_lat": 35.937504,
+    "stop_lon": -79.056472
+  },
+  {
+    "stop_id": "8554290",
+    "stop_name": "Martin Luther King Junior Boulevard at Timber Hollow Northbound",
+    "stop_lat": 35.941384,
+    "stop_lon": -79.057209
+  },
+  {
+    "stop_id": "8554291",
+    "stop_name": "Martin Luther King Junior Boulevard at Ashley Forest Road",
+    "stop_lat": 35.944501,
+    "stop_lon": -79.057853
+  },
+  {
+    "stop_id": "8554294",
+    "stop_name": "Martin Luther King Junior Boulevard at Taylor Street",
+    "stop_lat": 35.945943,
+    "stop_lon": -79.058146
+  },
+  {
+    "stop_id": "8554295",
+    "stop_name": "Martin Luther King Junior Boulevard at Homestead",
+    "stop_lat": 35.949907,
+    "stop_lon": -79.058073
+  },
+  {
+    "stop_id": "8554296",
+    "stop_name": "Martin Luther King Junior Boulevard at Stateside Drive Northbound",
+    "stop_lat": 35.955672,
+    "stop_lon": -79.057715
+  },
+  {
+    "stop_id": "8554297",
+    "stop_name": "Martin Luther King Junior Boulevard Junior at Rigsbee Northbound",
+    "stop_lat": 35.959714,
+    "stop_lon": -79.057167
+  },
+  {
+    "stop_id": "8554298",
+    "stop_name": "Westminster Drive at Banks Drive Eastbound",
+    "stop_lat": 35.96153,
+    "stop_lon": -79.05484
+  },
+  {
+    "stop_id": "8554299",
+    "stop_name": "Banks Drive at Shopping Center",
+    "stop_lat": 35.96196,
+    "stop_lon": -79.05528
+  },
+  {
+    "stop_id": "8554300",
+    "stop_name": "Banks Drive at Weaver Dairy Road",
+    "stop_lat": 35.96352,
+    "stop_lon": -79.05561
+  },
+  {
+    "stop_id": "8554301",
+    "stop_name": "Weaver Dairy Road at Timberlyne Village",
+    "stop_lat": 35.9639,
+    "stop_lon": -79.05305
+  },
+  {
+    "stop_id": "8554302",
+    "stop_name": "Weaver Dairy Road at Essex Drive Eastbound",
+    "stop_lat": 35.96397,
+    "stop_lon": -79.04296
+  },
+  {
+    "stop_id": "8554303",
+    "stop_name": "Weaver Dairy Road at Timberlyne Road",
+    "stop_lat": 35.96388,
+    "stop_lon": -79.04849
+  },
+  {
+    "stop_id": "8554304",
+    "stop_name": "Weaver Dairy Road at Steeplechase Road",
+    "stop_lat": 35.96204,
+    "stop_lon": -79.03668
+  },
+  {
+    "stop_id": "8554305",
+    "stop_name": "Friday Center Drive at Finley Forest Drive",
+    "stop_lat": 35.89919,
+    "stop_lon": -79.01106
+  },
+  {
+    "stop_id": "8554307",
+    "stop_name": "Friday Center Park-and-Ride",
+    "stop_lat": 35.900574,
+    "stop_lon": -79.011502
+  },
+  {
+    "stop_id": "8554308",
+    "stop_name": "Friday Center Drive at NC 54 Northbound",
+    "stop_lat": 35.901098,
+    "stop_lon": -79.01094
+  },
+  {
+    "stop_id": "8554309",
+    "stop_name": "Raleigh Road at Burning Tree Drive",
+    "stop_lat": 35.906601,
+    "stop_lon": -79.019153
+  },
+  {
+    "stop_id": "8554310",
+    "stop_name": "Raleigh Road at Oakwood Drive",
+    "stop_lat": 35.907803,
+    "stop_lon": -79.022324
+  },
+  {
+    "stop_id": "8554311",
+    "stop_name": "South Road at Country Club Road Westbound",
+    "stop_lat": 35.910745,
+    "stop_lon": -79.042884
+  },
+  {
+    "stop_id": "8554312",
+    "stop_name": "Bradley Road at Reade Road Southbound",
+    "stop_lat": 35.924985,
+    "stop_lon": -79.057903
+  },
+  {
+    "stop_id": "8554313",
+    "stop_name": "Raleigh Road at Hamilton Road",
+    "stop_lat": 35.907746,
+    "stop_lon": -79.023192
+  },
+  {
+    "stop_id": "8554314",
+    "stop_name": "Raleigh Road at Finley Golf Course Road",
+    "stop_lat": 35.906529,
+    "stop_lon": -79.019783
+  },
+  {
+    "stop_id": "8554315",
+    "stop_name": "Friday Center Drive at NC 54 Southbound",
+    "stop_lat": 35.90131,
+    "stop_lon": -79.011303
+  },
+  {
+    "stop_id": "8554316",
+    "stop_name": "Friday Center Drive at Friday Center Drive",
+    "stop_lat": 35.899632,
+    "stop_lon": -79.011213
+  },
+  {
+    "stop_id": "8554532",
+    "stop_name": "North Columbia Street at Isley Street Westbound",
+    "stop_lat": 35.919076,
+    "stop_lon": -79.059334
+  },
+  {
+    "stop_id": "8554533",
+    "stop_name": "Pritchard Avenue Extension at Trinity Court",
+    "stop_lat": 35.919841,
+    "stop_lon": -79.060938
+  },
+  {
+    "stop_id": "8554534",
+    "stop_name": "Caldwell Street at Church Street",
+    "stop_lat": 35.917494,
+    "stop_lon": -79.060747
+  },
+  {
+    "stop_id": "8554535",
+    "stop_name": "Caldwell Street at North Columbia Street",
+    "stop_lat": 35.918007,
+    "stop_lon": -79.059477
+  },
+  {
+    "stop_id": "8554536",
+    "stop_name": "West Barbee Chapel Road at Weaver Mine Trail",
+    "stop_lat": 35.906048,
+    "stop_lon": -79.01288
+  },
+  {
+    "stop_id": "8554539",
+    "stop_name": "Meadowmont Lane at Village Crossing Drive",
+    "stop_lat": 35.904903,
+    "stop_lon": -79.009053
+  },
+  {
+    "stop_id": "8554540",
+    "stop_name": "West Barbee Chapel Road at Old Barn Lane",
+    "stop_lat": 35.907043,
+    "stop_lon": -79.014934
+  },
+  {
+    "stop_id": "8554541",
+    "stop_name": "Estes Drive at Post Office",
+    "stop_lat": 35.928064,
+    "stop_lon": -79.032338
+  },
+  {
+    "stop_id": "8554542",
+    "stop_name": "East Franklin Street at Estes Drive Westbound",
+    "stop_lat": 35.928649,
+    "stop_lon": -79.034717
+  },
+  {
+    "stop_id": "8554543",
+    "stop_name": "East Franklin Street at Vet Hospital",
+    "stop_lat": 35.926776,
+    "stop_lon": -79.036089
+  },
+  {
+    "stop_id": "8554544",
+    "stop_name": "East Franklin Street at Elizabeth Street Westbound",
+    "stop_lat": 35.924214,
+    "stop_lon": -79.038389
+  },
+  {
+    "stop_id": "8554545",
+    "stop_name": "East Franklin Street at Howell Lane Westbound",
+    "stop_lat": 35.922579,
+    "stop_lon": -79.038896
+  },
+  {
+    "stop_id": "8554546",
+    "stop_name": "East Franklin Street at Carolina Avenue",
+    "stop_lat": 35.918242,
+    "stop_lon": -79.040155
+  },
+  {
+    "stop_id": "8554547",
+    "stop_name": "East Franklin Street at North Boundary Street Westbound",
+    "stop_lat": 35.916781,
+    "stop_lon": -79.046571
+  },
+  {
+    "stop_id": "8554548",
+    "stop_name": "East Franklin Street at Planetarium Westbound",
+    "stop_lat": 35.915208,
+    "stop_lon": -79.050644
+  },
+  {
+    "stop_id": "8554549",
+    "stop_name": "East Franklin Street at Henderson Street",
+    "stop_lat": 35.914399,
+    "stop_lon": -79.05278
+  },
+  {
+    "stop_id": "8554550",
+    "stop_name": "Mason Farm Road at Oteys Road",
+    "stop_lat": 35.897839,
+    "stop_lon": -79.045819
+  },
+  {
+    "stop_id": "8554551",
+    "stop_name": "Finley Golf Course Road at NC 54",
+    "stop_lat": 35.905541,
+    "stop_lon": -79.019054
+  },
+  {
+    "stop_id": "8554552",
+    "stop_name": "Ronald McDonald House Eastbound",
+    "stop_lat": 35.900962,
+    "stop_lon": -79.030821
+  },
+  {
+    "stop_id": "8554553",
+    "stop_name": "Old Mason Farm Road at Highland Woods",
+    "stop_lat": 35.901217,
+    "stop_lon": -79.031753
+  },
+  {
+    "stop_id": "8554554",
+    "stop_name": "Fordham Boulevard at Old Mason Farm Road",
+    "stop_lat": 35.901034,
+    "stop_lon": -79.033427
+  },
+  {
+    "stop_id": "8554870",
+    "stop_name": "Hillsborough Street at Brookside Condos",
+    "stop_lat": 35.923394,
+    "stop_lon": -79.051853
+  },
+  {
+    "stop_id": "8554871",
+    "stop_name": "Hillsborough Street at Union Chapel Hill Southbound",
+    "stop_lat": 35.920219,
+    "stop_lon": -79.051843
+  },
+  {
+    "stop_id": "8554872",
+    "stop_name": "Hillsborough Street at North Street",
+    "stop_lat": 35.917804,
+    "stop_lon": -79.050486
+  },
+  {
+    "stop_id": "8554873",
+    "stop_name": "Hillsborough Street at East Rosemary Street",
+    "stop_lat": 35.91628,
+    "stop_lon": -79.049664
+  },
+  {
+    "stop_id": "8554874",
+    "stop_name": "South Columbia Street at Mason Farm",
+    "stop_lat": 35.902859,
+    "stop_lon": -79.056056
+  },
+  {
+    "stop_id": "8554875",
+    "stop_name": "Manning Drive at Hospital Parking Deck",
+    "stop_lat": 35.903199,
+    "stop_lon": -79.051357
+  },
+  {
+    "stop_id": "8554876",
+    "stop_name": "Manning Drive at Hibbard Drive",
+    "stop_lat": 35.902843,
+    "stop_lon": -79.048947
+  },
+  {
+    "stop_id": "8554877",
+    "stop_name": "Manning Drive at Craige Parking Deck",
+    "stop_lat": 35.903472,
+    "stop_lon": -79.046632
+  },
+  {
+    "stop_id": "8554878",
+    "stop_name": "Ridge Road at Ehringhaus Hall",
+    "stop_lat": 35.904113,
+    "stop_lon": -79.044186
+  },
+  {
+    "stop_id": "8554879",
+    "stop_name": "South Columbia Street at Westwood Drive",
+    "stop_lat": 35.900945,
+    "stop_lon": -79.05803
+  },
+  {
+    "stop_id": "8554882",
+    "stop_name": "West Franklin Street at Kenan Street Westbound",
+    "stop_lat": 35.91141,
+    "stop_lon": -79.060559
+  },
+  {
+    "stop_id": "8554883",
+    "stop_name": "West Franklin Street at North Roberson Street",
+    "stop_lat": 35.91028,
+    "stop_lon": -79.063448
+  },
+  {
+    "stop_id": "8554884",
+    "stop_name": "East Main Street at Lloyd Street",
+    "stop_lat": 35.910826,
+    "stop_lon": -79.068796
+  },
+  {
+    "stop_id": "8554885",
+    "stop_name": "East Main Street at Jade Palace",
+    "stop_lat": 35.910454,
+    "stop_lon": -79.071405
+  },
+  {
+    "stop_id": "8554886",
+    "stop_name": "South Greensboro Street at Traffic Circle",
+    "stop_lat": 35.902949,
+    "stop_lon": -79.072629
+  },
+  {
+    "stop_id": "8554887",
+    "stop_name": "Smith Level Road at Public Works Department",
+    "stop_lat": 35.90042,
+    "stop_lon": -79.074035
+  },
+  {
+    "stop_id": "8554888",
+    "stop_name": "Smith Level Road at Willow Oak Lane Southbound",
+    "stop_lat": 35.898408,
+    "stop_lon": -79.07523
+  },
+  {
+    "stop_id": "8554889",
+    "stop_name": "Smith Level Road at BPW Club Road Southbound",
+    "stop_lat": 35.895123,
+    "stop_lon": -79.076644
+  },
+  {
+    "stop_id": "8554890",
+    "stop_name": "Rock Haven Road at Smith Level Road",
+    "stop_lat": 35.891903,
+    "stop_lon": -79.08014
+  },
+  {
+    "stop_id": "8554891",
+    "stop_name": "Carrboro High School Northbound",
+    "stop_lat": 35.892584,
+    "stop_lon": -79.084017
+  },
+  {
+    "stop_id": "8554892",
+    "stop_name": "Tar Hill Drive at Carrboro High School Northbound",
+    "stop_lat": 35.893956,
+    "stop_lon": -79.085699
+  },
+  {
+    "stop_id": "8554893",
+    "stop_name": "Tar Hill Drive at BPW Club Road Northbound",
+    "stop_lat": 35.894887,
+    "stop_lon": -79.085427
+  },
+  {
+    "stop_id": "8554894",
+    "stop_name": "BPW Club Road at Apartments",
+    "stop_lat": 35.895894,
+    "stop_lon": -79.082428
+  },
+  {
+    "stop_id": "8554895",
+    "stop_name": "BPW Club Road at the Villages",
+    "stop_lat": 35.895434,
+    "stop_lon": -79.079635
+  },
+  {
+    "stop_id": "8554896",
+    "stop_name": "BPW Club Road at Smith Level Road",
+    "stop_lat": 35.895342,
+    "stop_lon": -79.076855
+  },
+  {
+    "stop_id": "8554897",
+    "stop_name": "Smith Level Road at Willow Oak Lane Northbound",
+    "stop_lat": 35.898185,
+    "stop_lon": -79.075058
+  },
+  {
+    "stop_id": "8554898",
+    "stop_name": "Smith Level Road at Frank Porter Graham School",
+    "stop_lat": 35.900398,
+    "stop_lon": -79.073609
+  },
+  {
+    "stop_id": "8554899",
+    "stop_name": "East Main Street at Weaver Street Realty",
+    "stop_lat": 35.910447,
+    "stop_lon": -79.070737
+  },
+  {
+    "stop_id": "8554901",
+    "stop_name": "Manning Lot at Middle of Lot",
+    "stop_lat": 35.900251,
+    "stop_lon": -79.039092
+  },
+  {
+    "stop_id": "8554902",
+    "stop_name": "Ridge Road at Stadium Drive",
+    "stop_lat": 35.906294,
+    "stop_lon": -79.044524
+  },
+  {
+    "stop_id": "8554903",
+    "stop_name": "Ridge Road at Law School",
+    "stop_lat": 35.909276,
+    "stop_lon": -79.041366
+  },
+  {
+    "stop_id": "8554904",
+    "stop_name": "Raleigh Street at Connor Hall",
+    "stop_lat": 35.911037,
+    "stop_lon": -79.046704
+  },
+  {
+    "stop_id": "8554905",
+    "stop_name": "Raleigh Street at Lewis Hall",
+    "stop_lat": 35.912483,
+    "stop_lon": -79.047392
+  },
+  {
+    "stop_id": "8554906",
+    "stop_name": "Cameron Avenue at New East Hall",
+    "stop_lat": 35.912369,
+    "stop_lon": -79.050132
+  },
+  {
+    "stop_id": "8554907",
+    "stop_name": "Cameron Avenue at Swain Hall",
+    "stop_lat": 35.911098,
+    "stop_lon": -79.05344
+  },
+  {
+    "stop_id": "8554908",
+    "stop_name": "Bowles Drive at Craige Dorm",
+    "stop_lat": 35.903351,
+    "stop_lon": -79.044457
+  },
+  {
+    "stop_id": "8554909",
+    "stop_name": "Bowles Drive at Kenan-Flagler Lot",
+    "stop_lat": 35.901595,
+    "stop_lon": -79.044156
+  },
+  {
+    "stop_id": "8554910",
+    "stop_name": "Bowles Drive at Smith Center",
+    "stop_lat": 35.900333,
+    "stop_lon": -79.043456
+  },
+  {
+    "stop_id": "8554911",
+    "stop_name": "East Franklin Street at 1512",
+    "stop_lat": 35.931303,
+    "stop_lon": -79.032889
+  },
+  {
+    "stop_id": "8554912",
+    "stop_name": "East Franklin Street at Couch Road",
+    "stop_lat": 35.932441,
+    "stop_lon": -79.031794
+  },
+  {
+    "stop_id": "8554913",
+    "stop_name": "East Franklin Street at Elliott Road Eastbound",
+    "stop_lat": 35.93535102583327,
+    "stop_lon": -79.02856008696365
+  },
+  {
+    "stop_id": "8554914",
+    "stop_name": "East Franklin Street at Eastgate Shopping",
+    "stop_lat": 35.936757,
+    "stop_lon": -79.026107
+  },
+  {
+    "stop_id": "8554915",
+    "stop_name": "Eastowne Road at Pinegate Circle",
+    "stop_lat": 35.94853,
+    "stop_lon": -79.007834
+  },
+  {
+    "stop_id": "8554916",
+    "stop_name": "Old Sterling Drive at Notting Hill",
+    "stop_lat": 35.951278,
+    "stop_lon": -79.011449
+  },
+  {
+    "stop_id": "8554917",
+    "stop_name": "Old Sterling Road at Bible Church",
+    "stop_lat": 35.950497,
+    "stop_lon": -79.014572
+  },
+  {
+    "stop_id": "8554918",
+    "stop_name": "Coleridge Road at Presque Isle",
+    "stop_lat": 35.949414,
+    "stop_lon": -79.016471
+  },
+  {
+    "stop_id": "8554919",
+    "stop_name": "Coleridge Road at Sage Road",
+    "stop_lat": 35.947182,
+    "stop_lon": -79.01486
+  },
+  {
+    "stop_id": "8554920",
+    "stop_name": "Sage Road at Dobbins Drive",
+    "stop_lat": 35.94571,
+    "stop_lon": -79.013278
+  },
+  {
+    "stop_id": "8554921",
+    "stop_name": "Dobbins Drive at Cosgrove Hills",
+    "stop_lat": 35.944115,
+    "stop_lon": -79.014686
+  },
+  {
+    "stop_id": "8554922",
+    "stop_name": "Old Oxford Road at Kirkwood Drive",
+    "stop_lat": 35.946658,
+    "stop_lon": -79.02095
+  },
+  {
+    "stop_id": "8554923",
+    "stop_name": "Old Oxford Road at Booker Creek Road",
+    "stop_lat": 35.94575,
+    "stop_lon": -79.023671
+  },
+  {
+    "stop_id": "8554924",
+    "stop_name": "Summerfield Crossing at Grist Mill",
+    "stop_lat": 35.943679,
+    "stop_lon": -79.025297
+  },
+  {
+    "stop_id": "8554925",
+    "stop_name": "Summerfield Crossing at Berry Patch",
+    "stop_lat": 35.943642,
+    "stop_lon": -79.022145
+  },
+  {
+    "stop_id": "8554926",
+    "stop_name": "Summerfield Crossing at Beaver Dam",
+    "stop_lat": 35.941557,
+    "stop_lon": -79.021215
+  },
+  {
+    "stop_id": "8554927",
+    "stop_name": "Dobbins Drive at Foxcroft Drive",
+    "stop_lat": 35.940837,
+    "stop_lon": -79.021978
+  },
+  {
+    "stop_id": "8554928",
+    "stop_name": "Dobbins Drive at Franklin Square",
+    "stop_lat": 35.938693,
+    "stop_lon": -79.024499
+  },
+  {
+    "stop_id": "8554929",
+    "stop_name": "East Franklin Street a Booker Creek",
+    "stop_lat": 35.936821,
+    "stop_lon": -79.026394
+  },
+  {
+    "stop_id": "8554930",
+    "stop_name": "East Franklin Street at Elliott Road Westbound",
+    "stop_lat": 35.934754,
+    "stop_lon": -79.029843
+  },
+  {
+    "stop_id": "8554931",
+    "stop_name": "East Franklin Street at Franklin Woods",
+    "stop_lat": 35.932349,
+    "stop_lon": -79.032249
+  },
+  {
+    "stop_id": "8554932",
+    "stop_name": "East Franklin Street at 1511",
+    "stop_lat": 35.931488,
+    "stop_lon": -79.033089
+  },
+  {
+    "stop_id": "8554933",
+    "stop_name": "East Franklin Street at Hillsborough Street",
+    "stop_lat": 35.915796,
+    "stop_lon": -79.049136
+  },
+  {
+    "stop_id": "8554943",
+    "stop_name": "Colony Woods Drive at Overland Drive",
+    "stop_lat": 35.934058,
+    "stop_lon": -79.00187
+  },
+  {
+    "stop_id": "8554944",
+    "stop_name": "Fountain Ridge Road at Highview Drive",
+    "stop_lat": 35.936562,
+    "stop_lon": -79.004091
+  },
+  {
+    "stop_id": "8554946",
+    "stop_name": "West Poplar Avenue at Apartments",
+    "stop_lat": 35.912326,
+    "stop_lon": -79.092811
+  },
+  {
+    "stop_id": "8554947",
+    "stop_name": "NC 54 East at West Poplar Avenue",
+    "stop_lat": 35.912211,
+    "stop_lon": -79.091764
+  },
+  {
+    "stop_id": "8554948",
+    "stop_name": "NC 54 at Oleander Road",
+    "stop_lat": 35.909231,
+    "stop_lon": -79.090187
+  },
+  {
+    "stop_id": "8554949",
+    "stop_name": "NC 54 East at Westbrook Drive",
+    "stop_lat": 35.903149,
+    "stop_lon": -79.081261
+  },
+  {
+    "stop_id": "8554950",
+    "stop_name": "NC 54 East at Canterbury",
+    "stop_lat": 35.902415,
+    "stop_lon": -79.077017
+  },
+  {
+    "stop_id": "8554951",
+    "stop_name": "Merritt Mill Road at Greensboro Street",
+    "stop_lat": 35.901268,
+    "stop_lon": -79.072432
+  },
+  {
+    "stop_id": "8554952",
+    "stop_name": "Merritt Mill Road at Manley Estates",
+    "stop_lat": 35.901879,
+    "stop_lon": -79.068056
+  },
+  {
+    "stop_id": "8554953",
+    "stop_name": "Merritt Mill Road at Lincoln Center",
+    "stop_lat": 35.902879,
+    "stop_lon": -79.06677
+  },
+  {
+    "stop_id": "8554954",
+    "stop_name": "Merritt Mill Road at Locust Court",
+    "stop_lat": 35.90555,
+    "stop_lon": -79.064013
+  },
+  {
+    "stop_id": "8554955",
+    "stop_name": "Cameron Avenue at Kennon Cheek/Rebecca Clark Building",
+    "stop_lat": 35.907318,
+    "stop_lon": -79.06299
+  },
+  {
+    "stop_id": "8554956",
+    "stop_name": "Cameron Avenue at South Roberson Street",
+    "stop_lat": 35.907666,
+    "stop_lon": -79.062092
+  },
+  {
+    "stop_id": "8554957",
+    "stop_name": "Cameron Avenue at Cameron Glen Drive",
+    "stop_lat": 35.90835,
+    "stop_lon": -79.060375
+  },
+  {
+    "stop_id": "8554958",
+    "stop_name": "Cameron Avenue at Wilson Street",
+    "stop_lat": 35.909569,
+    "stop_lon": -79.057121
+  },
+  {
+    "stop_id": "8554959",
+    "stop_name": "Cameron Avenue at Pittsboro Street",
+    "stop_lat": 35.910041,
+    "stop_lon": -79.055838
+  },
+  {
+    "stop_id": "8555141",
+    "stop_name": "Airport Road at Estes Drive Eastbound",
+    "stop_lat": 35.931878,
+    "stop_lon": -79.05878
+  },
+  {
+    "stop_id": "8555142",
+    "stop_name": "Airport Drive at Martin Luther King Junior Boulevard Eastbound",
+    "stop_lat": 35.932188,
+    "stop_lon": -79.055949
+  },
+  {
+    "stop_id": "8555153",
+    "stop_name": "Raleigh Street at Alderman Hall",
+    "stop_lat": 35.914796,
+    "stop_lon": -79.048697
+  },
+  {
+    "stop_id": "8555154",
+    "stop_name": "Hillsborough Street at East Romemary Street Northbound",
+    "stop_lat": 35.916919,
+    "stop_lon": -79.049861
+  },
+  {
+    "stop_id": "8555155",
+    "stop_name": "Hillsborough Street at Union Chapel Hill Northbound",
+    "stop_lat": 35.919957,
+    "stop_lon": -79.051545
+  },
+  {
+    "stop_id": "8555156",
+    "stop_name": "Hillsborough Street at Bolinwood Drive",
+    "stop_lat": 35.923468,
+    "stop_lon": -79.05167
+  },
+  {
+    "stop_id": "8555157",
+    "stop_name": "Airport Drive at Martin Luther King Junior Boulevard Westbound",
+    "stop_lat": 35.932295,
+    "stop_lon": -79.056205
+  },
+  {
+    "stop_id": "8555158",
+    "stop_name": "Airport Drive at Estes Drive Westbound",
+    "stop_lat": 35.932157,
+    "stop_lon": -79.059224
+  },
+  {
+    "stop_id": "8555159",
+    "stop_name": "Cameron Avenue at Granville Towers",
+    "stop_lat": 35.90962581129739,
+    "stop_lon": -79.05740291534424
+  },
+  {
+    "stop_id": "8555160",
+    "stop_name": "Cameron Avenue at Kenan Street",
+    "stop_lat": 35.908930380906334,
+    "stop_lon": -79.05922291534425
+  },
+  {
+    "stop_id": "8555161",
+    "stop_name": "Cameron Avenue at South Roberson Street",
+    "stop_lat": 35.90796951946113,
+    "stop_lon": -79.0617248687172
+  },
+  {
+    "stop_id": "8555162",
+    "stop_name": "Cameron Avenue at Railroad Tracks",
+    "stop_lat": 35.907438657434824,
+    "stop_lon": -79.06309486871719
+  },
+  {
+    "stop_id": "8555163",
+    "stop_name": "Merritt Mill Road at Locust Court",
+    "stop_lat": 35.904934761056,
+    "stop_lon": -79.06448096197128
+  },
+  {
+    "stop_id": "8555164",
+    "stop_name": "Merritt Mill Road at Lincoln Center",
+    "stop_lat": 35.903097797565394,
+    "stop_lon": -79.06674559755325
+  },
+  {
+    "stop_id": "8555165",
+    "stop_name": "Merritt Mill Road at Manley Estates",
+    "stop_lat": 35.90201866145232,
+    "stop_lon": -79.06815900859833
+  },
+  {
+    "stop_id": "8555166",
+    "stop_name": "Merritt Mill Road at Roberts Street",
+    "stop_lat": 35.9014,
+    "stop_lon": -79.072222
+  },
+  {
+    "stop_id": "8555167",
+    "stop_name": "NC 54 West at Royal Park Apartments",
+    "stop_lat": 35.903001,
+    "stop_lon": -79.077918
+  },
+  {
+    "stop_id": "8555168",
+    "stop_name": "NC 54 West at Carolina Apartments",
+    "stop_lat": 35.90357,
+    "stop_lon": -79.082161
+  },
+  {
+    "stop_id": "8555169",
+    "stop_name": "Jones Ferry Road at Willow Creek at Medicine Center Westbound",
+    "stop_lat": 35.9050086592361,
+    "stop_lon": -79.0890302331352
+  },
+  {
+    "stop_id": "8555170",
+    "stop_name": "Old Fayetteville Road at Poplar Place",
+    "stop_lat": 35.902977,
+    "stop_lon": -79.091017
+  },
+  {
+    "stop_id": "8555171",
+    "stop_name": "Landerwood Lane at Fountain Ridge Road",
+    "stop_lat": 35.936496,
+    "stop_lon": -79.009319
+  },
+  {
+    "stop_id": "8555172",
+    "stop_name": "Landerwood Lane at Ephesus Church Road",
+    "stop_lat": 35.933221,
+    "stop_lon": -79.008912
+  },
+  {
+    "stop_id": "8555173",
+    "stop_name": "Ephesus Church Road at Tinkerbell Road Westbound",
+    "stop_lat": 35.932678,
+    "stop_lon": -79.012005
+  },
+  {
+    "stop_id": "8555174",
+    "stop_name": "Ephesus Church Road at Ephesus School",
+    "stop_lat": 35.932512,
+    "stop_lon": -79.016164
+  },
+  {
+    "stop_id": "8555175",
+    "stop_name": "Ephesus Church Road at Kings Arms Apartments",
+    "stop_lat": 35.933166,
+    "stop_lon": -79.019384
+  },
+  {
+    "stop_id": "8555176",
+    "stop_name": "Ephesus Church Road at Hamlin Park",
+    "stop_lat": 35.934194,
+    "stop_lon": -79.020803
+  },
+  {
+    "stop_id": "8555177",
+    "stop_name": "Ephesus Church Road at Legion Road Westbound",
+    "stop_lat": 35.935049,
+    "stop_lon": -79.021802
+  },
+  {
+    "stop_id": "8555178",
+    "stop_name": "Weaver Street at Weaver Street Market",
+    "stop_lat": 35.910982,
+    "stop_lon": -79.07165
+  },
+  {
+    "stop_id": "8555179",
+    "stop_name": "North Greensboro Street at Harris Teeter",
+    "stop_lat": 35.912163,
+    "stop_lon": -79.072192
+  },
+  {
+    "stop_id": "8555180",
+    "stop_name": "North Greensboro Street at Cedar Court",
+    "stop_lat": 35.914899,
+    "stop_lon": -79.072112
+  },
+  {
+    "stop_id": "8555181",
+    "stop_name": "North Greensboro Street at Oak Avenue Westbound",
+    "stop_lat": 35.916874,
+    "stop_lon": -79.07363
+  },
+  {
+    "stop_id": "8555182",
+    "stop_name": "North Greensboro Street at Williams Street",
+    "stop_lat": 35.918085,
+    "stop_lon": -79.076016
+  },
+  {
+    "stop_id": "8555183",
+    "stop_name": "North Greensboro Street at Pine Street",
+    "stop_lat": 35.919096,
+    "stop_lon": -79.077283
+  },
+  {
+    "stop_id": "8555184",
+    "stop_name": "North Greensboro Street at Weathervane Drive",
+    "stop_lat": 35.920893,
+    "stop_lon": -79.080306
+  },
+  {
+    "stop_id": "8555185",
+    "stop_name": "North Greensboro Street at Bolin Forest",
+    "stop_lat": 35.920905,
+    "stop_lon": -79.082311
+  },
+  {
+    "stop_id": "8555186",
+    "stop_name": "North Greensboro Street at Morningside Drive Westbound",
+    "stop_lat": 35.921294,
+    "stop_lon": -79.085238
+  },
+  {
+    "stop_id": "8555187",
+    "stop_name": "Hillsborough Road at Blueridge Road",
+    "stop_lat": 35.922185,
+    "stop_lon": -79.08751
+  },
+  {
+    "stop_id": "8555200",
+    "stop_name": "Eubanks Road at Northwood Drive Eastbound",
+    "stop_lat": 35.969349,
+    "stop_lon": -79.065979
+  },
+  {
+    "stop_id": "8555201",
+    "stop_name": "New East Drive at Mason Farm Road",
+    "stop_lat": 35.901571,
+    "stop_lon": -79.051551
+  },
+  {
+    "stop_id": "8555202",
+    "stop_name": "Mason Farm Road at Ambulatory Care Center Westbound",
+    "stop_lat": 35.902309,
+    "stop_lon": -79.054771
+  },
+  {
+    "stop_id": "8555203",
+    "stop_name": "South Columbia Street at Purefoy Road Southbound",
+    "stop_lat": 35.895495,
+    "stop_lon": -79.058559
+  },
+  {
+    "stop_id": "8555204",
+    "stop_name": "US 15-501 South at Culbreth Road",
+    "stop_lat": 35.892184,
+    "stop_lon": -79.058496
+  },
+  {
+    "stop_id": "8555205",
+    "stop_name": "US 15-501 South at Bennett Road",
+    "stop_lat": 35.885033,
+    "stop_lon": -79.061326
+  },
+  {
+    "stop_id": "8555206",
+    "stop_name": "Kildaire Road at Market Street",
+    "stop_lat": 35.880124,
+    "stop_lon": -79.065668
+  },
+  {
+    "stop_id": "8555207",
+    "stop_name": "US 15-501 North at Bennett Road",
+    "stop_lat": 35.886099,
+    "stop_lon": -79.061313
+  },
+  {
+    "stop_id": "8555208",
+    "stop_name": "South Columbia Street at Purefoy Road Northbound",
+    "stop_lat": 35.895608,
+    "stop_lon": -79.058294
+  },
+  {
+    "stop_id": "8555209",
+    "stop_name": "Martin Luther King Junior Boulevard at Weaver Dairy Road",
+    "stop_lat": 35.964838,
+    "stop_lon": -79.058491
+  },
+  {
+    "stop_id": "8555210",
+    "stop_name": "Eubanks Road at Northwood Drive Westbound",
+    "stop_lat": 35.969628148409875,
+    "stop_lon": -79.06688072883605
+  },
+  {
+    "stop_id": "8555217",
+    "stop_name": "North Columbia Street at Town Hall Westbound",
+    "stop_lat": 35.91642,
+    "stop_lon": -79.057713
+  },
+  {
+    "stop_id": "8555218",
+    "stop_name": "Umstead Drive at Pritchard Avenue Extension Westbound",
+    "stop_lat": 35.922651,
+    "stop_lon": -79.060437
+  },
+  {
+    "stop_id": "8555219",
+    "stop_name": "Umstead Drive at Umstead Park Westbound",
+    "stop_lat": 35.921799,
+    "stop_lon": -79.062343
+  },
+  {
+    "stop_id": "8555220",
+    "stop_name": "Umstead Drive at Bolinwood Apartments",
+    "stop_lat": 35.922733,
+    "stop_lon": -79.065025
+  },
+  {
+    "stop_id": "8555221",
+    "stop_name": "Village Drive at Winding Creek Lane Westbound",
+    "stop_lat": 35.921842,
+    "stop_lon": -79.066081
+  },
+  {
+    "stop_id": "8555222",
+    "stop_name": "Village Drive at Fernwood Lane Westbound",
+    "stop_lat": 35.920931,
+    "stop_lon": -79.067308
+  },
+  {
+    "stop_id": "8555223",
+    "stop_name": "Village Drive at Oakland Drive Westbound",
+    "stop_lat": 35.921276,
+    "stop_lon": -79.069354
+  },
+  {
+    "stop_id": "8555224",
+    "stop_name": "Village Drive at Estes Drive Westbound",
+    "stop_lat": 35.922788,
+    "stop_lon": -79.070893
+  },
+  {
+    "stop_id": "8555230",
+    "stop_name": "Hillsborough Road at 904",
+    "stop_lat": 35.923356,
+    "stop_lon": -79.089514
+  },
+  {
+    "stop_id": "8555231",
+    "stop_name": "Hillsborough Road at Rainbow Drive Westbound",
+    "stop_lat": 35.924129,
+    "stop_lon": -79.090478
+  },
+  {
+    "stop_id": "8555232",
+    "stop_name": "Hillsborough Road at Dove Street",
+    "stop_lat": 35.92515,
+    "stop_lon": -79.091316
+  },
+  {
+    "stop_id": "8555233",
+    "stop_name": "Hillsbourough Road at James Street Westbound",
+    "stop_lat": 35.926914,
+    "stop_lon": -79.092746
+  },
+  {
+    "stop_id": "8555234",
+    "stop_name": "Hillsborough Road at 1218",
+    "stop_lat": 35.929061,
+    "stop_lon": -79.095379
+  },
+  {
+    "stop_id": "8555235",
+    "stop_name": "Hillsbourough Road at Barrington Hills",
+    "stop_lat": 35.931132,
+    "stop_lon": -79.097858
+  },
+  {
+    "stop_id": "8555236",
+    "stop_name": "Hillsborough Road at Old Fayetteville Road",
+    "stop_lat": 35.933074,
+    "stop_lon": -79.100444
+  },
+  {
+    "stop_id": "8555237",
+    "stop_name": "Old Fayetteville Road at Pine Grove Southbound",
+    "stop_lat": 35.924227,
+    "stop_lon": -79.100242
+  },
+  {
+    "stop_id": "8555238",
+    "stop_name": "Old Fayetteville Road at NC 54",
+    "stop_lat": 35.918629,
+    "stop_lon": -79.09893
+  },
+  {
+    "stop_id": "8555239",
+    "stop_name": "Old Fayetteville Road at Swansea Lane",
+    "stop_lat": 35.915889,
+    "stop_lon": -79.097028
+  },
+  {
+    "stop_id": "8555240",
+    "stop_name": "Old Fayetteville Road at Lacock Road",
+    "stop_lat": 35.914285,
+    "stop_lon": -79.095784
+  },
+  {
+    "stop_id": "8555241",
+    "stop_name": "Old Fayetteville Road at Poplar Avenue",
+    "stop_lat": 35.912023,
+    "stop_lon": -79.094109
+  },
+  {
+    "stop_id": "8555242",
+    "stop_name": "Old Fayetteville Road at West End Flats Southbound",
+    "stop_lat": 35.910388,
+    "stop_lon": -79.093414
+  },
+  {
+    "stop_id": "8555243",
+    "stop_name": "Old Fayetteville Road at 228",
+    "stop_lat": 35.907205,
+    "stop_lon": -79.092302
+  },
+  {
+    "stop_id": "8555244",
+    "stop_name": "Old Fayetteville Road at 107",
+    "stop_lat": 35.905355,
+    "stop_lon": -79.09172
+  },
+  {
+    "stop_id": "8555299",
+    "stop_name": "Village Drive at Estes Drive Eastbound",
+    "stop_lat": 35.92272000978763,
+    "stop_lon": -79.07101411045075
+  },
+  {
+    "stop_id": "8555300",
+    "stop_name": "Village Drive at Oakland Drive Eastbound",
+    "stop_lat": 35.92116813591069,
+    "stop_lon": -79.06945592394257
+  },
+  {
+    "stop_id": "8555301",
+    "stop_name": "Village Drive at Fernwood Lane Eastbound",
+    "stop_lat": 35.920834,
+    "stop_lon": -79.067208
+  },
+  {
+    "stop_id": "8555302",
+    "stop_name": "Village Drive at Winding Creek Eastbound",
+    "stop_lat": 35.922078,
+    "stop_lon": -79.065888
+  },
+  {
+    "stop_id": "8555303",
+    "stop_name": "Umstead Drive at Umstead Park Eastbound",
+    "stop_lat": 35.921675,
+    "stop_lon": -79.062332
+  },
+  {
+    "stop_id": "8555304",
+    "stop_name": "Umstead Drive at Pritchard Avenue Extension Eastbound",
+    "stop_lat": 35.922493,
+    "stop_lon": -79.060571
+  },
+  {
+    "stop_id": "8555305",
+    "stop_name": "Longview Street at North Columbia Street",
+    "stop_lat": 35.919617,
+    "stop_lon": -79.059869
+  },
+  {
+    "stop_id": "8555306",
+    "stop_name": "North Columbia Street at Town Hall Eastbound",
+    "stop_lat": 35.91641,
+    "stop_lon": -79.057877
+  },
+  {
+    "stop_id": "8555307",
+    "stop_name": "Exchange at Meadowmont",
+    "stop_lat": 35.90362,
+    "stop_lon": -79.016614
+  },
+  {
+    "stop_id": "8555308",
+    "stop_name": "Franklin Street at Trust Building",
+    "stop_lat": 35.902425,
+    "stop_lon": -79.013822
+  },
+  {
+    "stop_id": "8555525",
+    "stop_name": "NC 54 East at Kingswood",
+    "stop_lat": 35.89888,
+    "stop_lon": -79.067392
+  },
+  {
+    "stop_id": "8555526",
+    "stop_name": "NC 54 West at Laurel Ridge",
+    "stop_lat": 35.898821,
+    "stop_lon": -79.066651
+  },
+  {
+    "stop_id": "8555527",
+    "stop_name": "Rogers Road at Meadow Run Court Southbound",
+    "stop_lat": 35.964484,
+    "stop_lon": -79.089575
+  },
+  {
+    "stop_id": "8555528",
+    "stop_name": "Rogers Road at Purefoy Road Southbound",
+    "stop_lat": 35.959213,
+    "stop_lon": -79.084347
+  },
+  {
+    "stop_id": "8555529",
+    "stop_name": "Rogers Road at Rusch Road Southbound",
+    "stop_lat": 35.957296,
+    "stop_lon": -79.082336
+  },
+  {
+    "stop_id": "8555530",
+    "stop_name": "Rogers Road at Tallyho Trail",
+    "stop_lat": 35.955657,
+    "stop_lon": -79.081741
+  },
+  {
+    "stop_id": "8555531",
+    "stop_name": "Rogers Road at Claymore Road",
+    "stop_lat": 35.952787,
+    "stop_lon": -79.080927
+  },
+  {
+    "stop_id": "8555532",
+    "stop_name": "Homestead Road at Sterling Bridge Road Southbound",
+    "stop_lat": 35.950249,
+    "stop_lon": -79.081251
+  },
+  {
+    "stop_id": "8555533",
+    "stop_name": "Homestead Road at Camden Lane Southbound",
+    "stop_lat": 35.948397,
+    "stop_lon": -79.082791
+  },
+  {
+    "stop_id": "8555534",
+    "stop_name": "Chapel Hill High School",
+    "stop_lat": 35.947179,
+    "stop_lon": -79.08079
+  },
+  {
+    "stop_id": "8555535",
+    "stop_name": "High School Road at Seawell School Road Eastbound",
+    "stop_lat": 35.946376,
+    "stop_lon": -79.07645
+  },
+  {
+    "stop_id": "8555536",
+    "stop_name": "Seawell School Road at Savannah Terrace Northbound",
+    "stop_lat": 35.948616,
+    "stop_lon": -79.075447
+  },
+  {
+    "stop_id": "8555537",
+    "stop_name": "Seawell School Road at Kove Road Northbound",
+    "stop_lat": 35.950501,
+    "stop_lon": -79.075433
+  },
+  {
+    "stop_id": "8555538",
+    "stop_name": "Homestead Road at Hearthstone Lane Southbound",
+    "stop_lat": 35.951809,
+    "stop_lon": -79.073301
+  },
+  {
+    "stop_id": "8555539",
+    "stop_name": "Homestead Road at Greenway Landing Southbound",
+    "stop_lat": 35.95169,
+    "stop_lon": -79.069679
+  },
+  {
+    "stop_id": "8555540",
+    "stop_name": "Southern Human Services Southbound",
+    "stop_lat": 35.950392,
+    "stop_lon": -79.063964
+  },
+  {
+    "stop_id": "8555541",
+    "stop_name": "Orange County Social Services",
+    "stop_lat": 35.948899,
+    "stop_lon": -79.06492
+  },
+  {
+    "stop_id": "8555542",
+    "stop_name": "Southern Human Services Northbound",
+    "stop_lat": 35.95069,
+    "stop_lon": -79.063758
+  },
+  {
+    "stop_id": "8555543",
+    "stop_name": "Homestead Road at Seymour Center Southbound",
+    "stop_lat": 35.95119,
+    "stop_lon": -79.063887
+  },
+  {
+    "stop_id": "8555544",
+    "stop_name": "Homestead Road at Martin Luther King Junior Boulevard Eastbound",
+    "stop_lat": 35.949996,
+    "stop_lon": -79.059746
+  },
+  {
+    "stop_id": "8555554",
+    "stop_name": "West Main Street at James Street",
+    "stop_lat": 35.917575,
+    "stop_lon": -79.09326
+  },
+  {
+    "stop_id": "8555555",
+    "stop_name": "West Main Street at Simpson Street",
+    "stop_lat": 35.917121,
+    "stop_lon": -79.091567
+  },
+  {
+    "stop_id": "8555556",
+    "stop_name": "West Main Street at Westview Drive",
+    "stop_lat": 35.916402,
+    "stop_lon": -79.089045
+  },
+  {
+    "stop_id": "8555557",
+    "stop_name": "High Street at Goldston Avenue",
+    "stop_lat": 35.91617,
+    "stop_lon": -79.085964
+  },
+  {
+    "stop_id": "8555558",
+    "stop_name": "High Street at Hillsborough Road",
+    "stop_lat": 35.917552,
+    "stop_lon": -79.083669
+  },
+  {
+    "stop_id": "8555559",
+    "stop_name": "Hillsborough Road at Pine Street",
+    "stop_lat": 35.916037,
+    "stop_lon": -79.081718
+  },
+  {
+    "stop_id": "8555560",
+    "stop_name": "Hillsborough Road at West Main Street",
+    "stop_lat": 35.913905,
+    "stop_lon": -79.079748
+  },
+  {
+    "stop_id": "8555561",
+    "stop_name": "West Main Street at Carrboro Town Hall",
+    "stop_lat": 35.911904,
+    "stop_lon": -79.077489
+  },
+  {
+    "stop_id": "8555562",
+    "stop_name": "Weaver Street at Lindsay Street",
+    "stop_lat": 35.911131,
+    "stop_lon": -79.075615
+  },
+  {
+    "stop_id": "8555563",
+    "stop_name": "Culbreth Road at Channing Lane",
+    "stop_lat": 35.892496,
+    "stop_lon": -79.062445
+  },
+  {
+    "stop_id": "8555564",
+    "stop_name": "Culbreth Road at Culbreth Park Drive",
+    "stop_lat": 35.891808,
+    "stop_lon": -79.06431
+  },
+  {
+    "stop_id": "8555565",
+    "stop_name": "Culbreth Road at Southbridge Drive",
+    "stop_lat": 35.891863,
+    "stop_lon": -79.066039
+  },
+  {
+    "stop_id": "8555566",
+    "stop_name": "Culbreth Road at Adams Way",
+    "stop_lat": 35.892175,
+    "stop_lon": -79.067949
+  },
+  {
+    "stop_id": "8555567",
+    "stop_name": "Culbreth Road at Weyer Drive",
+    "stop_lat": 35.8926615255366,
+    "stop_lon": -79.0705668926239
+  },
+  {
+    "stop_id": "8555568",
+    "stop_name": "Culbreth Road at Covenant Place",
+    "stop_lat": 35.893714,
+    "stop_lon": -79.075739
+  },
+  {
+    "stop_id": "8555573",
+    "stop_name": "Weaver Street at Lindsay Street",
+    "stop_lat": 35.911269,
+    "stop_lon": -79.075531
+  },
+  {
+    "stop_id": "8555574",
+    "stop_name": "West Main Street at Carrboro Town Hall",
+    "stop_lat": 35.911987,
+    "stop_lon": -79.077327
+  },
+  {
+    "stop_id": "8555575",
+    "stop_name": "Hillsborough Road at West Main Street",
+    "stop_lat": 35.914117,
+    "stop_lon": -79.079737
+  },
+  {
+    "stop_id": "8555576",
+    "stop_name": "Hillsborough Road at Pine Street",
+    "stop_lat": 35.91613,
+    "stop_lon": -79.081609
+  },
+  {
+    "stop_id": "8555577",
+    "stop_name": "High Street at Hillsborough Road",
+    "stop_lat": 35.91749,
+    "stop_lon": -79.083946
+  },
+  {
+    "stop_id": "8555578",
+    "stop_name": "High Street at Goldston Avenue",
+    "stop_lat": 35.916225,
+    "stop_lon": -79.086123
+  },
+  {
+    "stop_id": "8555579",
+    "stop_name": "West Main Street at Westview Drive Westbound",
+    "stop_lat": 35.916558,
+    "stop_lon": -79.089
+  },
+  {
+    "stop_id": "8555580",
+    "stop_name": "West Main Street at Simpson Street",
+    "stop_lat": 35.917234,
+    "stop_lon": -79.091423
+  },
+  {
+    "stop_id": "8555581",
+    "stop_name": "West Main Street at Carrboro Post Office",
+    "stop_lat": 35.917845,
+    "stop_lon": -79.093399
+  },
+  {
+    "stop_id": "8555582",
+    "stop_name": "NC 54 East at ABC Store",
+    "stop_lat": 35.916376,
+    "stop_lon": -79.093495
+  },
+  {
+    "stop_id": "8555583",
+    "stop_name": "NC 54 East at Berkshire Manor West",
+    "stop_lat": 35.915006,
+    "stop_lon": -79.092979
+  },
+  {
+    "stop_id": "8555584",
+    "stop_name": "West Poplar Avenue at Carolina Springs",
+    "stop_lat": 35.912398,
+    "stop_lon": -79.093012
+  },
+  {
+    "stop_id": "8555585",
+    "stop_name": "Homstead Road at Martin Luther King Junior Boulevard Westbound",
+    "stop_lat": 35.950422,
+    "stop_lon": -79.0602
+  },
+  {
+    "stop_id": "8555586",
+    "stop_name": "Homestead Road at Seymour Center Northbound",
+    "stop_lat": 35.95138255019662,
+    "stop_lon": -79.0641915606785
+  },
+  {
+    "stop_id": "8555587",
+    "stop_name": "Homestead Road at Greenway Landing Northbound",
+    "stop_lat": 35.951831,
+    "stop_lon": -79.070029
+  },
+  {
+    "stop_id": "8555588",
+    "stop_name": "Homestead Road at Hearthstone Lane Northbound",
+    "stop_lat": 35.951968,
+    "stop_lon": -79.073382
+  },
+  {
+    "stop_id": "8555589",
+    "stop_name": "Seawell School Road at Kove Road Southbound",
+    "stop_lat": 35.950472,
+    "stop_lon": -79.07565
+  },
+  {
+    "stop_id": "8555590",
+    "stop_name": "Seawell School Road at Savannah Terrace Southbound",
+    "stop_lat": 35.949181,
+    "stop_lon": -79.075622
+  },
+  {
+    "stop_id": "8555591",
+    "stop_name": "High School Road at Seawell School Road Westbound",
+    "stop_lat": 35.946541,
+    "stop_lon": -79.076542
+  },
+  {
+    "stop_id": "8555592",
+    "stop_name": "High School Road at Celtic Circle",
+    "stop_lat": 35.947319,
+    "stop_lon": -79.081155
+  },
+  {
+    "stop_id": "8555593",
+    "stop_name": "Homestead Road at Camden Lane Southbound",
+    "stop_lat": 35.947941,
+    "stop_lon": -79.082762
+  },
+  {
+    "stop_id": "8555594",
+    "stop_name": "Homestead Road at Sterling Bridge Road Northbound",
+    "stop_lat": 35.949985,
+    "stop_lon": -79.081341
+  },
+  {
+    "stop_id": "8555595",
+    "stop_name": "Rogers Road at Sylvan Way",
+    "stop_lat": 35.952492,
+    "stop_lon": -79.080684
+  },
+  {
+    "stop_id": "8555596",
+    "stop_name": "Rogers Road at Ezekiel Peppers Trail",
+    "stop_lat": 35.955457,
+    "stop_lon": -79.081534
+  },
+  {
+    "stop_id": "8555597",
+    "stop_name": "Rogers Road at Rusch Road Northbound",
+    "stop_lat": 35.957323,
+    "stop_lon": -79.0822
+  },
+  {
+    "stop_id": "8555598",
+    "stop_name": "Rogers Road at Purefoy Road Northbound",
+    "stop_lat": 35.959096,
+    "stop_lon": -79.083961
+  },
+  {
+    "stop_id": "8555599",
+    "stop_name": "Rogers Road at Meadow Run Court Northbound",
+    "stop_lat": 35.964386,
+    "stop_lon": -79.089237
+  },
+  {
+    "stop_id": "8555603",
+    "stop_name": "Elliot Road at First Citizens Bank",
+    "stop_lat": 35.934347,
+    "stop_lon": -79.02872
+  },
+  {
+    "stop_id": "8555604",
+    "stop_name": "Elliot Road at Berkshire Chapel Hill Eastbound",
+    "stop_lat": 35.933075,
+    "stop_lon": -79.028112
+  },
+  {
+    "stop_id": "8555605",
+    "stop_name": "Elliott Road at Fordham Boulevard",
+    "stop_lat": 35.932341,
+    "stop_lon": -79.025372
+  },
+  {
+    "stop_id": "8555606",
+    "stop_name": "Legion Road at Ephesus Church Road",
+    "stop_lat": 35.935609,
+    "stop_lon": -79.020803
+  },
+  {
+    "stop_id": "8555607",
+    "stop_name": "Legion Road at Turnberry Lane",
+    "stop_lat": 35.93761,
+    "stop_lon": -79.019015
+  },
+  {
+    "stop_id": "8555608",
+    "stop_name": "Legion Road at Europa Drive Eastbound",
+    "stop_lat": 35.939544,
+    "stop_lon": -79.016654
+  },
+  {
+    "stop_id": "8555609",
+    "stop_name": "Legion Road at Formosa Drive",
+    "stop_lat": 35.94038,
+    "stop_lon": -79.015577
+  },
+  {
+    "stop_id": "8555610",
+    "stop_name": "Legion Road at Forsyth Drive",
+    "stop_lat": 35.941454,
+    "stop_lon": -79.013694
+  },
+  {
+    "stop_id": "8555611",
+    "stop_name": "Legion Road at Scarlett Drive Eastbound",
+    "stop_lat": 35.942649,
+    "stop_lon": -79.01173
+  },
+  {
+    "stop_id": "8555612",
+    "stop_name": "Legion Road at Cooper Street",
+    "stop_lat": 35.942744,
+    "stop_lon": -79.00882
+  },
+  {
+    "stop_id": "8555613",
+    "stop_name": "Old Durham Road at Cooper Street",
+    "stop_lat": 35.94417,
+    "stop_lon": -79.007707
+  },
+  {
+    "stop_id": "8555614",
+    "stop_name": "Old Durham Road at Bluefield Road",
+    "stop_lat": 35.944276,
+    "stop_lon": -79.003529
+  },
+  {
+    "stop_id": "8555615",
+    "stop_name": "Old Durham Road at East Lakeview Drive Westbound",
+    "stop_lat": 35.944681,
+    "stop_lon": -79.001561
+  },
+  {
+    "stop_id": "8555616",
+    "stop_name": "Jones Ferry Road at Barnes Street",
+    "stop_lat": 35.908182,
+    "stop_lon": -79.079616
+  },
+  {
+    "stop_id": "8555617",
+    "stop_name": "Jones Ferry Road at Bim Street",
+    "stop_lat": 35.909084,
+    "stop_lon": -79.077808
+  },
+  {
+    "stop_id": "8555618",
+    "stop_name": "Jones Ferry Road at Thrift Store",
+    "stop_lat": 35.909843,
+    "stop_lon": -79.075258
+  },
+  {
+    "stop_id": "8555619",
+    "stop_name": "West Main Street at Thrift Store",
+    "stop_lat": 35.910007,
+    "stop_lon": -79.07446
+  },
+  {
+    "stop_id": "8555624",
+    "stop_name": "Foxwood Drive at Honeysuckle Road",
+    "stop_lat": 35.949728,
+    "stop_lon": -79.023507
+  },
+  {
+    "stop_id": "8555625",
+    "stop_name": "Foxwood Drive at Sedgefield Drive",
+    "stop_lat": 35.952066,
+    "stop_lon": -79.021745
+  },
+  {
+    "stop_id": "8555626",
+    "stop_name": "Sedgefield Drive at Mayberry Court",
+    "stop_lat": 35.953318,
+    "stop_lon": -79.02347
+  },
+  {
+    "stop_id": "8555627",
+    "stop_name": "Sedgefield Drive at Rosewood Court",
+    "stop_lat": 35.953488,
+    "stop_lon": -79.02523
+  },
+  {
+    "stop_id": "8555628",
+    "stop_name": "Honeysuckle Road at Sedgefield Drive",
+    "stop_lat": 35.952554,
+    "stop_lon": -79.026304
+  },
+  {
+    "stop_id": "8555629",
+    "stop_name": "Honeysuckle Road at Red Bud Lane",
+    "stop_lat": 35.952552,
+    "stop_lon": -79.029129
+  },
+  {
+    "stop_id": "8555630",
+    "stop_name": "Honeysuckle Road at Honeysuckle Court",
+    "stop_lat": 35.952502,
+    "stop_lon": -79.030919
+  },
+  {
+    "stop_id": "8555631",
+    "stop_name": "Honeysuckle Road at Brookview Road",
+    "stop_lat": 35.951317,
+    "stop_lon": -79.033565
+  },
+  {
+    "stop_id": "8555632",
+    "stop_name": "North Lakeshore Drive at 2121",
+    "stop_lat": 35.948783,
+    "stop_lon": -79.034702
+  },
+  {
+    "stop_id": "8555633",
+    "stop_name": "North Lakeshore Drive at Kenmore Road Westbound",
+    "stop_lat": 35.946502,
+    "stop_lon": -79.03596
+  },
+  {
+    "stop_id": "8555634",
+    "stop_name": "North Lakeshore Drive at Shady Lawn Road",
+    "stop_lat": 35.944538,
+    "stop_lon": -79.037807
+  },
+  {
+    "stop_id": "8555635",
+    "stop_name": "North Lakeshore Drive at 1821",
+    "stop_lat": 35.942593,
+    "stop_lon": -79.039165
+  },
+  {
+    "stop_id": "8555636",
+    "stop_name": "North Lakeshore Drive at Rock Creek Road Westbound",
+    "stop_lat": 35.941043,
+    "stop_lon": -79.03997
+  },
+  {
+    "stop_id": "8555637",
+    "stop_name": "Curtis Road at South Lakeshore Drive Westbound",
+    "stop_lat": 35.939607,
+    "stop_lon": -79.040186
+  },
+  {
+    "stop_id": "8555638",
+    "stop_name": "Curtis Road at Lyons Road Southbound",
+    "stop_lat": 35.937981,
+    "stop_lon": -79.041358
+  },
+  {
+    "stop_id": "8555639",
+    "stop_name": "Curtis Road at Clayton Road Westbound",
+    "stop_lat": 35.935431,
+    "stop_lon": -79.041936
+  },
+  {
+    "stop_id": "8555640",
+    "stop_name": "Caswell Road at Estes Drive",
+    "stop_lat": 35.934766,
+    "stop_lon": -79.043087
+  },
+  {
+    "stop_id": "8555641",
+    "stop_name": "Estes Drive at Phillips Middle School and Park Westbound",
+    "stop_lat": 35.9352,
+    "stop_lon": -79.047692
+  },
+  {
+    "stop_id": "8555642",
+    "stop_name": "Estes Drive at Somerset Drive Westbound",
+    "stop_lat": 35.935253,
+    "stop_lon": -79.050606
+  },
+  {
+    "stop_id": "8555643",
+    "stop_name": "Estes Drive at Methodist Church Westbound",
+    "stop_lat": 35.935272,
+    "stop_lon": -79.054681
+  },
+  {
+    "stop_id": "8557214",
+    "stop_name": "Old Durham Road at East Lakeview Drive",
+    "stop_lat": 35.94463817313904,
+    "stop_lon": -79.00230609325409
+  },
+  {
+    "stop_id": "8557215",
+    "stop_name": "Old Durham Road at Bluefield Road",
+    "stop_lat": 35.94438514448574,
+    "stop_lon": -79.00365072883608
+  },
+  {
+    "stop_id": "8557216",
+    "stop_name": "Old Durham Road at Cooper Street",
+    "stop_lat": 35.9443329172174,
+    "stop_lon": -79.0077339067459
+  },
+  {
+    "stop_id": "8557217",
+    "stop_name": "Legion Road at Cooper Street Westbound",
+    "stop_lat": 35.942851030833296,
+    "stop_lon": -79.00900769692421
+  },
+  {
+    "stop_id": "8557218",
+    "stop_name": "Legion Road at Scarlett Drive Westbound",
+    "stop_lat": 35.94253817521644,
+    "stop_lon": -79.01218597668648
+  },
+  {
+    "stop_id": "8557219",
+    "stop_name": "Legion Road at Forsyth Drive Westbound",
+    "stop_lat": 35.941764516869,
+    "stop_lon": -79.0134362098217
+  },
+  {
+    "stop_id": "8557220",
+    "stop_name": "Legion Road at Formosa Drive",
+    "stop_lat": 35.940458405110284,
+    "stop_lon": -79.01569644295692
+  },
+  {
+    "stop_id": "8557221",
+    "stop_name": "Legion Road at Europa Drive Westbound",
+    "stop_lat": 35.93945681201357,
+    "stop_lon": -79.01709953372955
+  },
+  {
+    "stop_id": "8557222",
+    "stop_name": "Legion Road at Turnberry Lane",
+    "stop_lat": 35.93763994836373,
+    "stop_lon": -79.01918119510653
+  },
+  {
+    "stop_id": "8557223",
+    "stop_name": "Legion Road at Ephesus Church Road",
+    "stop_lat": 35.935733434405584,
+    "stop_lon": -79.02079169080734
+  },
+  {
+    "stop_id": "8557224",
+    "stop_name": "Elliott Road at Fordham Boulevard",
+    "stop_lat": 35.932469408678244,
+    "stop_lon": -79.02545766749382
+  },
+  {
+    "stop_id": "8557225",
+    "stop_name": "Elliott Road at Berkshire Chapel Hill",
+    "stop_lat": 35.9324930308533,
+    "stop_lon": -79.02784075826646
+  },
+  {
+    "stop_id": "8557226",
+    "stop_name": "Elliott Road at Whole Foods Market",
+    "stop_lat": 35.93437755157969,
+    "stop_lon": -79.02850221593857
+  },
+  {
+    "stop_id": "8557239",
+    "stop_name": "Estes Drive at Methodist Churhc Eastbound",
+    "stop_lat": 35.935127,
+    "stop_lon": -79.054629
+  },
+  {
+    "stop_id": "8557240",
+    "stop_name": "Estes Drive at Somerset Drive Eastbound",
+    "stop_lat": 35.935149,
+    "stop_lon": -79.050634
+  },
+  {
+    "stop_id": "8557241",
+    "stop_name": "Estes Drive at Phillips Middle School and Park Eastbound",
+    "stop_lat": 35.935076,
+    "stop_lon": -79.047401
+  },
+  {
+    "stop_id": "8557242",
+    "stop_name": "Caswell Road at Clayton Road",
+    "stop_lat": 35.935011,
+    "stop_lon": -79.042701
+  },
+  {
+    "stop_id": "8557243",
+    "stop_name": "Curtis Road at Clayton Road Eastbound",
+    "stop_lat": 35.935393,
+    "stop_lon": -79.041784
+  },
+  {
+    "stop_id": "8557244",
+    "stop_name": "Curtis Road at Lyons Road Northbound",
+    "stop_lat": 35.937779,
+    "stop_lon": -79.041202
+  },
+  {
+    "stop_id": "8557245",
+    "stop_name": "Curtis Road at South Lakeshore Drive Eastbound",
+    "stop_lat": 35.939752,
+    "stop_lon": -79.040013
+  },
+  {
+    "stop_id": "8557246",
+    "stop_name": "North Lakeshore Drive at 1822",
+    "stop_lat": 35.942626,
+    "stop_lon": -79.039005
+  },
+  {
+    "stop_id": "8557247",
+    "stop_name": "North Lakeshore Drive at Arlington Street",
+    "stop_lat": 35.944219,
+    "stop_lon": -79.037999
+  },
+  {
+    "stop_id": "8557248",
+    "stop_name": "North Lakeshore Drive at Kenmore Road Eastbound",
+    "stop_lat": 35.946207,
+    "stop_lon": -79.036153
+  },
+  {
+    "stop_id": "8557249",
+    "stop_name": "North Lakeshore Drive at 2122",
+    "stop_lat": 35.94877,
+    "stop_lon": -79.034485
+  },
+  {
+    "stop_id": "8557250",
+    "stop_name": "North Lakeshore Drive at Brookview Road",
+    "stop_lat": 35.950967,
+    "stop_lon": -79.033445
+  },
+  {
+    "stop_id": "8557251",
+    "stop_name": "Honeysuckle Road at Honeysuckle Court",
+    "stop_lat": 35.952396,
+    "stop_lon": -79.030881
+  },
+  {
+    "stop_id": "8557252",
+    "stop_name": "Honeysuckle Road at Red Bud Lane",
+    "stop_lat": 35.952424,
+    "stop_lon": -79.02904
+  },
+  {
+    "stop_id": "8557253",
+    "stop_name": "Honeysuckle Road at Booker Creek Road",
+    "stop_lat": 35.952424,
+    "stop_lon": -79.027011
+  },
+  {
+    "stop_id": "8557254",
+    "stop_name": "Booker Creek Road at Lakeshore Lane",
+    "stop_lat": 35.949701,
+    "stop_lon": -79.026892
+  },
+  {
+    "stop_id": "8557261",
+    "stop_name": "North Lakeshore Drive at Rock Creek Road Eastbound",
+    "stop_lat": 35.940799,
+    "stop_lon": -79.039967
+  },
+  {
+    "stop_id": "8581873",
+    "stop_name": "Hamilton Road at Raleigh Road",
+    "stop_lat": 35.908481,
+    "stop_lon": -79.023921
+  },
+  {
+    "stop_id": "8581874",
+    "stop_name": "West Rosemary Street at Pritchard Avenue Westbound",
+    "stop_lat": 35.913463,
+    "stop_lon": -79.058079
+  },
+  {
+    "stop_id": "8826976",
+    "stop_name": "Jones Ferry Road at Bim Street Southbound",
+    "stop_lat": 35.90923,
+    "stop_lon": -79.077744
+  },
+  {
+    "stop_id": "8826977",
+    "stop_name": "Jones Ferry Road at Orange Water and Sewer Authority",
+    "stop_lat": 35.908414,
+    "stop_lon": -79.079574
+  },
+  {
+    "stop_id": "8826978",
+    "stop_name": "Jones Ferry Road at Alabama Avenue",
+    "stop_lat": 35.906545,
+    "stop_lon": -79.084463
+  },
+  {
+    "stop_id": "8831530",
+    "stop_name": "BPW Club Road at Orchard Ln",
+    "stop_lat": 35.8955210134729,
+    "stop_lon": -79.077610373497
+  },
+  {
+    "stop_id": "8831531",
+    "stop_name": "BPW Club Road at Sterling Bluff",
+    "stop_lat": 35.895586198164,
+    "stop_lon": -79.0796542167664
+  },
+  {
+    "stop_id": "8831532",
+    "stop_name": "BPW Club Road at Welcome Center",
+    "stop_lat": 35.8958498640753,
+    "stop_lon": -79.0830111398811
+  },
+  {
+    "stop_id": "8831533",
+    "stop_name": "Tar Hill Drive at BPW Club Road Southbound",
+    "stop_lat": 35.8950006204307,
+    "stop_lon": -79.0856006741524
+  },
+  {
+    "stop_id": "8831534",
+    "stop_name": "Tar Hill Drive at Carrboro High School Southbound",
+    "stop_lat": 35.8939323457352,
+    "stop_lon": -79.0858825975533
+  },
+  {
+    "stop_id": "8831535",
+    "stop_name": "Carrboro High School Southbound",
+    "stop_lat": 35.8928722967902,
+    "stop_lon": -79.0843400359154
+  },
+  {
+    "stop_id": "8831536",
+    "stop_name": "Rock Haven Road at Opposite Rock Creek West",
+    "stop_lat": 35.8918140890597,
+    "stop_lon": -79.0829358994961
+  },
+  {
+    "stop_id": "8831537",
+    "stop_name": "Rock Haven Road at Renee Lynne Court",
+    "stop_lat": 35.8917597658993,
+    "stop_lon": -79.080303311348
+  },
+  {
+    "stop_id": "9088973",
+    "stop_name": "West Franklin St at Church St",
+    "stop_lat": 35.91242,
+    "stop_lon": -79.057896
+  },
+  {
+    "stop_id": "9088974",
+    "stop_name": "West Franklin St at UNC ITS",
+    "stop_lat": 35.910811,
+    "stop_lon": -79.062086
+  },
+  {
+    "stop_id": "9375264",
+    "stop_name": "Martin Luther King Junior Boulevard at IFC Community House",
+    "stop_lat": 35.95151385867593,
+    "stop_lon": -79.0581685128975
+  },
+  {
+    "stop_id": "9720643",
+    "stop_name": "Main Street at Inter-Faith Council (3717)",
+    "stop_lat": 35.910202,
+    "stop_lon": -79.073607
+  },
+  {
+    "stop_id": "9720644",
+    "stop_name": "Jones Ferry Road at Main Street (3716)",
+    "stop_lat": 35.909847,
+    "stop_lon": -79.075928
+  },
+  {
+    "stop_id": "9745919",
+    "stop_name": "Old Mason Farm Road at UNC Athletic Fields",
+    "stop_lat": 35.899447,
+    "stop_lon": -79.025701
+  }
+]

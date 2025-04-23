@@ -1,0 +1,17 @@
+{
+  "name": "Python Dev Container for Capstone Project Data Analysis",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "extensions": [
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "mechatroner.rainbow-csv"
+  ],
+  "postCreateCommand": "pip install -r requirements.txt && python -m ipykernel install --user --name=devcontainer-kernel --display-name 'Python (devcontainer)'",
+  "remoteUser": "vscode"
+}

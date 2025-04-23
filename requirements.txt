@@ -1,0 +1,5 @@
+pandas
+googlemaps
+numpy
+geopy
+ipykernel
